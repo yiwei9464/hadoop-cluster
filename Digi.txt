@@ -1,0 +1,538 @@
+Annual Report 2017
+32                                         Digi.Com Berhad | Annual Report 2017
+
+
+
+
+                                                                                  SUSTAINABILITY
+OUR SUSTAINABILITY COMMITMENT IS ROOTED ON BUILDING TRUST AND CREATING SHARED VALUE. WE
+CONTINUE TO PRIORITISE AND INCULCATE BEST PRACTICE PRINCIPLES, TRANSPARENCY AND ACCOUNTABILITY
+IN THE WAY WE OPERATE OUR BUSINESS AND MANAGE OUR SUPPLY CHAIN. CONCURRENTLY, WE HAVE
+MADE SIGNIFICANT EFFORTS TO EXTEND THE BENEFITS OF MOBILE AND DIGITAL COMMUNICATION TO ENABLE
+DIGITAL INCLUSION AND TO BUILD DIGITAL RESILIENCE THAT HELP REDUCE INEQUALITIES, IN SUPPORT OF
+UNITED NATION’S SUSTAINABLE DEVELOPMENT GOAL #10.
+
+
+                                                           RESPONSIBLE BUSINESS
+                                                                                             EMPOWER SOCIETIES
+                             •              Ethics and Compliance
+                             •              Supply Chain Sustainability                       • Digital Inclusion
+                             •              Winning Team                                      • Digital Resilience
+                             •              Climate Change and Environment
+
+
+
+The procedure of compiling Digi’s sustainability disclosure is                                        Digi’s operational priorities, corporate strategy and stakeholder
+in accordance with Telenor Group’s Non-Financial Reporting                                            expectations. Key sustainability issues identified are similar to
+Procedures, and Digi’s Standard Operating Policy and Procedures                                       the ones reported a year ago, with developments in key areas
+on Sustainability Reporting. Digi’s materiality issues were built                                     outlined in this section, and more details available in our online
+on Telenor Group’s materiality assessment and mapped against                                          Sustainability Report.
+
+
+                                                                                  Digi’s Materiality Matrix
+
+                                                                                  Digital inclusion                      Ethics and anti-corruption
+                                                                                                                         Data security and privacy
+                                        High
+
+
+
+
+                                                                                                                         Service reliability and quality
+                                                                                                                         Supply chain sustainability
+  Importance to External Stakeholders
+
+
+
+
+                                                                                                                         Digital resilience
+
+                                                                                  Radiation concerns                     Talent and culture
+                                                                                  Waste management                       Energy efficiency
+                                        Medium
+
+
+
+
+                                                                                                                         Licences and tax
+                                        Low
+
+
+
+
+                                                                Low                            Medium                                   High
+
+                                                                                          Importance to Digi
+                                                                                                         Sustainability
+
+                                                                                                Digi.Com Berhad | Annual Report 2017   33
+
+
+
+
+ETHICS AND COMPLIANCE
+
+We uphold the highest standard of ethical behaviour and
+integrity in everything we do. Our core principles and ethical
+standards set the foundation that guides employee conduct
+and the way we engage with our customers, stakeholders and
+partners, who share similar beliefs and values of ethical business
+practices.
+
+
+
+
+                          Awareness
+
+
+
+
+                                                                     Encouraging Reporting: A ‘Speak Up’ programme was organised
+                                                                     to encourage employees to step forward and report acts of non-
+      Audit              Ethics &                  Tools/
+                                                                     compliance via the Ethics and Compliance hotline. During the
+                        Compliance                Trainings
+                                                                     year, we saw a 30% increase on Ethics and Compliance related
+                                                                     issues reported compared to 2016.
+
+                                                                     We also adopted a new approach for incident handling that
+                                                                     includes responding to compliance incidence reports within 48
+                                                                     hours of receiving the report, completing investigations within
+                                                                     30 days and ensuring that implementation of recommendations
+                         Assessment
+                                                                     are followed up within the next 30 days.
+
+                                                                     Carrying Out Assessments: We carried out a company-wide
+                                                                     ethics and compliance risk assessment exercise to identify
+Creating Awareness: Every employee is guided by the Code of          possible risks and proposed mitigation plans to address them.
+Conduct. The Code of Conduct defines the expected behaviours
+of a responsible and accountable employee, and underscores           Managing Third Party Risks: We implemented a new third party
+the importance of transparency and professionalism in the way        due diligence policy that requires relevant employees to carry
+we work and conduct business. It is mandatory for all employees      out a due diligence assessment on all business partners prior to
+to read and acknowledge by signing and resigning the Code of         engagement. This is to ensure that Digi’s business relationship
+Conduct annually.                                                    with all third parties does not pose unacceptable risks to the
+                                                                     company.
+In 2017, we introduced a monthly ethics and compliance
+scenario-based learning, ‘Doing Business the RIGHT Way’,             Practicing Human Rights: In 2017, in continuation of our
+which highlighted real scenarios related to the Code of Conduct      commitment to respect human rights, and conducting due
+as reference to guide employees in handling work related             diligence requirements, Digi partnered with UNICEF to
+dilemmas. An internal awareness programme called ‘Our Voice          undertake UNICEF’s Mobile Operator Child Rights Self-Impact
+of Integrity’, was also organised to encourage employees to          Assessment Tool (MO-CRIA). The tool provided us with a good
+pledge and uphold the highest level of integrity.                    framework to assess policies, and identify gaps and opportunities
+                                                                     to create better business sustainability in consideration of child
+                                                                     rights. Digi is the first mobile operator in Asia to complete the
+                                                                     UNICEF MO-CRIA process.
+34      Digi.Com Berhad | Annual Report 2017
+
+
+
+
+SUSTAINABILITY             C    O    N    T    I   N   U   E   D
+
+
+SAFEGUARDING PRIVACY                                                  Focusing on Service Reliability and Quality: The results of
+                                                                      the Malaysian Communications and Multimedia Commission
+Privacy continues to be an integral part of our responsibility to     (MCMC)’s Network Performance Report 2017 mirrors Digi’s
+stakeholders, and we are committed to ensuring that all data is       focus on building a network that provides better and more
+collected and processed securely. In line with this, we continue      consistent experience. The report outlines a nationwide network
+to place stringent processes and security measures in managing        performance measurement based on key metrics such as data
+information that is entrusted to us, and have taken steps to          throughput speeds and network latency (the timing of data
+further strengthen internal controls in all areas of our operations   transfer on a network), in line with the Mandatory Standards for
+during the year to safeguard the privacy of our customer data.        Quality of Service for Wireless Broadband Access services.
+
+Strengthening Processes: In 2017, we further tightened our
+governance process, and improved monitoring compliance in              Key Metrics/Year                       2017            2016
+our business processes and technical systems. Adopting a risk-         (Throughput) Average                   15.57           16.55
+based approach, we assessed the adequacy of our privacy notice,        Download Speed                         Mbps            Mbps
+data handling procedures and operating systems to ensure               (Throughput) Speeds                   98.80%          98.88%
+compliance to the Personal Data Protection Act 2010, and our           over 650 Kbps
+Privacy Policy.
+                                                                       (Network Latency) % of the            99.61%          88.18%
+Creating Awareness: 51 customised training and 68 awareness            time latency ≤ 250 milliseconds
+activities were carried out nationwide in 2017, focusing on            (Network Latency) Packet Loss          0.52%          0.52%
+employees who deal with personal data on a daily basis in
+the Contact Center and Retail Stores. Information Handling            Source: MCMC Network Performance QoS Report 2017
+e-learning continues to be a mandatory training for new
+employees to understand the importance of safeguarding
+customer data.                                                        Digitising Customer Care: We saw a 40% reduction in total
+                                                                      calls to our customer service for all services. This corresponds to
+Setting Standards: Digi collaborated with industry peers to           the 28% increase in digital interaction via Digi Live Chat, where
+prepare the Personal Data Protection Code of Practice 2017            customers are able to chat with our customer service consultants
+(Code of Practice) for licensees under the Communications             in real-time. We have also started using a chatbot over our Live
+and Multimedia Act 1998. This Code of Practice serves as a            Chat channel which looks to address simple customer queries
+guide to set effective standards and measures in relation to the      after office hours.
+processing of a Data Subject’s personal data, and to ensure that
+the processing of personal data does not infringe customers’ or       Embracing Customer First Mindset: We celebrated our annual
+employees’ rights under the Personal Data Protection Act 2010.        Customer First Day 2017 with employees nationwide going
+                                                                      out to the streets to engage with customers. Customers were
+Competition Law: 1,365 employees whose job scope exposes              introduced to the various digital entertainment services that are
+them to potential risks have completed a mandatory, ‘Say Yes          available via affordable subscription plans and were also shared
+to Competition’ e-learning. This 3-month programme was                tips on how to make internet safer for their families.
+important to maintain a business environment that promotes
+fair and healthy competition.
+
+IMPROVING CUSTOMER EXPERIENCE
+
+We continue to engage customers across all touchpoints
+including Digi Stores, Contact Centre, Social Media and Live
+Chat for feedback, to better understand their challenges or for
+ideas on how we can improve user experience and offer them
+what matters most. Employees are encouraged to participate
+in various initiatives such as network drive tests and mystery
+shopper exercises to gain first hand feedback on our network
+performance and products offered.
+                                                                                                         Sustainability
+
+                                                                                                Digi.Com Berhad | Annual Report 2017   35
+
+
+
+
+SUPPLY CHAIN SUSTAINABILITY                                          services. This is accomplished through the four pillars of our
+                                                                     employer promise of ‘Freedom to Inspire The Next’.
+Our commitment to responsible, fair and safe workplace extends
+to the over 75,000 individuals estimated to be working in our
+supply chain. This is aligned to our pledge to reduce inequalities
+                                                                                  Freedom to Inspire The Next
+by raising standards and building capacity for our supply chain.
+
+During the year, there was an increase of 38.7% in the number
+of suppliers signing the Agreement on Responsible Business
+Conduct (ABC), bringing us to a total of 165 suppliers committing
+to embrace ethical conduct, best practises in sustainability and
+environmental responsibility.
+                                                                                   Freedom to Learn
+Building Capacity through Training: Multiple workshops
+amounting to 2,690 man-hours were conducted for capacity
+building among our contractors and sub-contractors on safety
+awareness, and proper ways to use equipments. We also                           Freedom to Innovate
+included the ‘Say No to Corruption’ learning module in the
+workshops, including the obligation to report any breach of our
+Code of Conduct.
+
+Enchancing Standard through Industry Collaboration:
+Digi continues to lead the industry in driving the highest
+                                                                                  Freedom to Engage
+standards in health and safety. In 2017, industry players began
+unannounced joint inspections. We also started implementing
+joint enforcements on non-compliant contractors and sub-
+contractors, and have terminated or suspended those who failed
+to meet the agreed safety standards.                                                Freedom to Grow
+HEALTH AND SAFETY
+
+Adopting International Best Practices: We have been certified
+OHSAS 18001-2007 and recorded zero lost time injury
+frequency (LTIF) in 2017.
+                                                                     Freedom to Learn
+In line with our continuous effort to ensure the health and
+safety of employees, we introduced a dedicated hotline               We are purposeful in transforming the way our employees
+number, 29588, for emergency incidences such as fire or health       learn and enhance their skills and competencies, with a focus on
+related cases with immediate assistance by trained individuals       future relevant functional and leadership skills, whilst creating a
+before emergency medical personnels are available on site. 35        culture of ‘permission-less’ learning.
+employees have been certified as First Aider volunteers.
+                                                                     Functional Learning: Five competence areas namely new
+WINNING TEAM                                                         product development, digital marketing, service design, applied
+                                                                     analytics, and digital channel and partnerships have been
+Our people are our most valuable asset. Our focus in the year        identified as critical capabilities for the future workforce and we
+was to continue building a work culture that is open, dynamic        are providing employees equal opportunity to upskill and grow
+and nurtures a supportive environment, creating opportunity          in any of the identified competencies.
+for each employee to freely voice their opinions and fresh ideas
+that inspire everyday innovation of new, exciting products and
+36      Digi.Com Berhad | Annual Report 2017
+
+
+
+
+SUSTAINABILITY             C    O    N    T    I   N   U   E   D
+
+
+
+
+Permission-less Learning: With open access to the world’s            real-time carpark availability, and Toilet Kiosk, a quality control
+best content provided through three digital learning platforms,      project utilising user rating for improvements.
+employees are empowered to manage their own career growth
+anytime, anywhere. To date, 36 employees have graduated and          Digital Day: A one-day event to inspire Digizens to learn and
+received their expert certifications on Coursera and another 93      discover new technologies and digital services.
+completed their nanodegrees from Udacity. More than 1,800
+employees completed 7,845 hours of learning on Lynda.com.            Digitising HR Tools: alt.hr, a one-stop mobile app for all human
+                                                                     resource needs was introduced in line with efforts to digitise our
+Freedom to Innovate                                                  workplace processes and engagement with employees.
+
+We promote a culture of everyday innovation where Digizens           Freedom to Engage
+are allowed to try new things, experiment with their own
+ideas and challenge the status quo to create impact across the       At the core of our DNA is a culture of empowerment, trust
+organisation. To drive this innovation 360° mindset, various         and fairness that creates a sense of belonging for each of our
+platforms are created for employees to explore new products,         employees. We value the ideas and commitment that employees
+services and solutions.                                              can bring to the table regardless of their positions in the company.
+                                                                     The open office and hot-desking concept embodies our value of
+Disrupt@Digi: 47 Digizens from 19 departments formed 12              openness, and is a key part of who we are.
+teams and participated in this annual 30-hour hackathon, where
+they developed growth ideas for Digi and our customers based         Employee Engagement Survey (EES): An annual survey that
+on three unique business challenges. D’Geek, a recommendation        collects employees’ feedback to determine the areas that are
+platform that uses predictive analytics to suggest personalised      critical in encouraging employee engagement at the team or
+lifestyle offerings to users was selected as the winner in 2017.     organisational level. We achieved a 74% engagement score in
+                                                                     2017, surpassing the Telenor Group average and the benchmark
+Telenor Ignite: An intrapreneur programme for employees              of high performing companies. The results point towards a
+across Telenor’s 12 business units aimed to identify great ideas     strong culture of loyalty and innovation amongst Digizens with
+for new end-user products and services. Six ideas from Digi          a solid understanding of the company’s business strategy and
+were submitted to Telenor, and one team with an idea to develop      governance framework.
+storage and analysis of drone flight data was shortlisted to pitch
+at the finale in Singapore.                                          Employee Representation: Employees are represented by
+                                                                     two platforms, the Best on People Council (BOPC) and the Digi
+Maker Lab: A platform created to nurture innovators and drive        Telecommunications Sdn Bhd Employee Union (DGEU) where
+the innovation 360° culture among Digizens. It encourages            elected members will work together with the Management
+critical thinking, problem solving and collaboration through         to enable changes that matter to employees. This year, BOPC
+hands-on learning and experimentation on various project-based       resolved 38 issues concerning employee welfare, way of work,
+and cross-disciplinary ideas. Examples of ideas that emerged         and work environment which were raised by the employees to
+include Smart Carpark, an Internet-of-Things (IoT) project on        the Management.
+                                                                                                        Sustainability
+
+                                                                                              Digi.Com Berhad | Annual Report 2017     37
+
+
+
+
+Management Engagement: Digi Management Team makes                   Talent Platforms: The second edition of the Digi CXO Apprentice
+regular visits to all regions to engage with employees and          Programme hit a record high of 1,100 applications, 25% more
+stakeholders, and also to deepen understanding of local             than the inaugural launch in 2016. Seven individuals were
+operations.                                                         selected to apprentice with our respective Management team
+                                                                    members, giving them a 12-month opportunity to experience
+Freedom to Grow                                                     first-hand high-level decision making, dealing with real business
+                                                                    challenges and the empowerment to innovate in a culture that
+It is our ambition to unlock the potential of our employees who     provides the freedom to inspire the next generation of products
+are empowered to take charge of their own career development.       and services for millions of customers in Malaysia.
+If Digizens are willing to give their 100% every day, dare to
+challenge the norm, be willing to take on additional goals and
+responsibilities, and deliver results, the company will support
+their growth in every direction – from world-class leadership
+programmes to accelerating them into positions of responsibility.
+
+Inclusive Talents: Approximately 86% of our top 49 leaders are
+from our internal succession programme, including four out of
+the seven Management team members.
+
+We believe that gender balance and diversity are critical for
+competitive advantage and shareholder value. Through the
+Women Inspiration Network (WIN), we continue to groom more
+women in the company for top management roles. 16 women were        Diverse and Dynamic Workforce: Digi believes in a diverse and
+selected in 2017 and provided the opportunity to develop to their   dynamic workforce at all levels of the organisation regardless
+full potential through exposure and engagement with external        of nationality, age, gender or competence. Our goal is to foster
+women leaders, direct mentorship with senior Management, and        a workplace that embraces differences, and provides equal
+a platform to learn and share with other women leaders.             opportunity to everyone.
+
+Globalising Local Leaders: Employees are also provided the          In 2017, women represented 45% of Digi’s leadership team.
+chance to work in other Telenor business units worldwide            On 11 July 2017, women representation at the Board dropped
+through the Mobility Programme. This programme allows               from 43% to 29% with the resignation of Ms. Kristin Muri
+selected Digizens to not only share their expertise and             Möller, as the Non-Independent and Non-Executive Director of
+knowledge with other business units but more importantly,           Digi.Com Bhd. With the appointment of Ms. Tone Ripel to the
+the chance to develop their professional and leadership             Board as Non-Independent and Non-Executive Director on the
+skills, contributing to their career development. In 2017,          23 January 2018, the composition of women board members is
+Digi mobilised 11 employees to business units in Bangladesh,        reinstated to 43%.
+Myanmar, Norway and Thailand.
+
+
+                  Gender                                        Age                                        Ethnicity
+
+               Male 56%                        56 and above                                    Malay                        33%
+                                                                            Below 35
+                                               3%
+                                                                            44%              Chinese                                 45%
+
+                                                                                               Indian             16%
+              Female 44%
+                                               36-55                                     Bumiputera      3%
+                                               53%
+                                                                                              Others     3%
+38      Digi.Com Berhad | Annual Report 2017
+
+
+
+
+SUSTAINABILITY             C      O   N   T    I   N    U     E   D
+
+
+CLIMATE CHANGE AND ENVIRONMENT                                             Network: One primary initiative is to reduce our dependency
+                                                                           on diesel. We progressively transform a significant number of
+Our commitment towards stabilising Digi’s energy consumption               our transmission sites located off the national electricity grid
+continues to drive our energy efficiency initiatives across                (off-grid) to run on electricity rather than diesel-powered
+our network and facilities. Our environmental programmes                   generator sets. We have also converted more than 600
+are governed by internationally recognised management and                  cabin sites from air-conditioning to fan cooling and utilised
+reporting systems.                                                         more robust outdoor equipment to stabilise our electricity
+                                                                           consumption.
+Stabilising Energy Growth
+                                                                           Our energy intensity per RM revenue rose to 0.051 KWh
+In 2017, we worked towards stabilising our energy consumption              due to lower revenues, while our KWh per customer is at 26
+through various initiatives on the back of expanded network                KWh, above the Telenor Group average of 17.6 KWh. Our total
+coverage. We continue to track energy used from the grid and               carbon emission equivalent is at 157,970 tonnes (10.7% year-
+generators for our network, buildings, flights, fleet and rental           on-year rise), a direct result of increased electricity usage from
+vehicles. We utilised 304 GWh of energy across our operations,             our network expansion while our carbon emission per customer
+a 6.5% increase year-on-year. Being aware of where our most                rose to 13.5 kg CO2e. However, we achieved carbon savings in
+significant emissions are produced, we continue to explore new             Scope 1 and Scope 3 as we reduced our diesel consumption and
+avenues to reduce our emissions while delivering business goals.           transportation by flights.
+
+
+
+Total Energy Use by Type (GWh)
+
+                                                        2017                            2016                                2015
+ Network (Grid)                                         187                              160                                 155
+ Network (Diesel)                                        96                              101                                  86
+ Building                                                 7                               8                                    8
+ Transport                                               13                              15                                   14
+ TOTAL                                                  304                              284                                 263
+
+Emissions By Scope (Tonnes CO2e)
+
+                                                        2017                            2016                                2015
+ Scope 1                                               24,262                          26,351                              22,048
+ Direct emissions from owned or
+ controlled sources (eg. fuel)
+ Scope 2                                               131,926                        114,573                             111,586
+ Indirect emissions from
+ generation of purchased energy
+ (eg. electricity)
+ Scope 3                                                1,782                          1,912                                1,628
+ All indirect emissions not
+ included in Scope 2 that
+ occur in the value chain incl.
+ upstream and downstream
+ (eg. transportation, flight)
+ TOTAL                                                 157,970                        142,835                             135,262
+* Our boundary for carbon reporting only covers emissions from Digi Telecommunications Sdn Bhd. Emissions from our network, which accounts for our
+  largest emissions, operate under this company. It does not include subsidiaries, outsourcing services or joint ventures.
+                                                                                                                   Sustainability
+
+                                                                                                          Digi.Com Berhad | Annual Report 2017   39
+
+
+
+
+Energy and Carbon Emission Per Customer (KWh/Kg CO2e )                          Improving Waste Management: We continue to manage our
+                                                                                water and waste efficiently, resulting in about 15% reduction
+                                     2017           2016          2015          in water usage across all our operations nationwide in 2017.
+ KWh (Digi)                           26.0          23.1          21.8          We also continue to recycle our municipal waste and e-waste
+ KWh                                  17.6          18.6          15.7          by reusing and recycling electrical and electronic equipments
+ (Telenor Average*)                                                             through professional service providers who guarantee that the
+                                                                                waste is processed, sorted, resold, recycled and disposed in an
+ Kg CO2e (Digi)                       13.5          11.6          11.2
+                                                                                environmentally sound manner. These include the collection
+ Kg CO2e                               5.9           6.0           4.9          of mobile devices and batteries through our Mobile e-waste
+ (Telenor average*)                                                             collection initiative at our retail stores.
+* Includes recalculation of Telenor Group data (ex-India) for Telenor average
+  for the period 2015-2016                                                      EMPOWER SOCIETIES
+
+Improving Environmental Management Systems: In 2017,                            We believe that the internet is a great equaliser. Our outreach
+we upgraded our Environmental Management System (EMS)                           programmes are designed to enable digital inclusion and to
+to the latest ISO 14001:2015 standard which includes key                        build digital resilience in delivering on our commitment to help
+improvements to remain relevant in the marketplace and adhere                   reduce inequalities among the underprivileged and underserved
+to the best international practice.                                             communities.
+
+Building a Sustainable Workplace: We became the first                           Enabling Digital Inclusion
+operator in Malaysia to receive the Leadership in Energy and
+Environmental Design (LEED) Gold certification from the                         In enabling digital inclusion, we worked with partners who share
+US Green Building Council (USGBC) for Digi’s refurbished                        our common vision to equip identified communities with internet
+headquarters in Subang Jaya. This achievement includes 100%                     connectivity and empower them through digital solutions.
+electrical energy star rated equipment and light fittings which
+have helped reduced power density by 60% annually. We have                      Learning Sign Language for Everyone: We jointly developed
+also seen a 42% saving in water usage per annum by upgrading                    EDDY, a sign language mobile app for the deaf community and
+to water saving closet and toilet flushing systems.                             anyone looking to learn the Malaysian Sign Language. EDDY
+                                                                                is designed as an education aide, and also a communications
+The LEED certification is the second environmental certification                tool that is able to translate sign language on-the-go. EDDY is
+Digi has received for our buildings, the first being the Gold                   downloadable from the Google Play Store for free.
+Certification from the Green Building Index for Digi’s Technology
+Operations Centre received in 2011, making it the first green
+data centre in Malaysia.
+40      Digi.Com Berhad | Annual Report 2017
+
+
+
+
+SUSTAINABILITY             C    O    N    T    I   N   U   E   D
+
+
+Easy Access to Local Information for Cancer Patients: In              Building Digital Resilience
+collaboration with the National Cancer Society Malaysia (NCSM),
+Digi built a virtual resource and support mobile app known as         With more children accessing the internet at an early age, we have
+Stronger than Cancer, to empower patients, caregivers, family         the responsibility as a connectivity provider to advocate safe and
+and friends affected by cancer. It is a one-stop community mobile     responsible use of the internet. Our goal is to help build digital
+platform to facilitate quicker, reliable and trustworthy sharing of   resilience among children in Malaysia through our cybersafety
+information related to cancer.                                        awareness, and cybergrooming and cyberbullying intervention
+                                                                      programmes to create safer online experiences. In 2017, we
+Digital Learning for Hospitalised Children: Together with             engaged more than 140,887 students nationwide through
+a Technology social enterprise SOLS 24/7, we equipped 15              different programmes which were carried out in collaboration
+Sekolah Dalam Hospital (SDH) nationwide with 30 laptops, 15           with the government and partners such as the Ministry of
+tablets, and internet connectivity to enable digital learning for     Education, Malaysian Communications and Multimedia
+children who are undergoing long-term treatment at hospitals to       Commission (MCMC), CyberSecurity Malaysia, Royal Malaysian
+ensure they are not left behind in their studies. More than 700       Police (PDRM), Federation of Reproductive Health Association
+children were engaged in the first pilot school programme.            Malaysia (FRHAM), UNICEF, R.AGE (TheStar), WOMEN:girls
+                                                                      (NGO), Petrosains and NagaDDB Tribal.
+
+                                                                      Capacity Building on Safe Internet Use: We developed a
+                                                                      ‘Digital Citizenship’ module for use in MyDigitalMaker Clubs
+                                                                      in schools, and produced a cyberbullying teaching aide for the
+                                                                      Ministry of Education’s counseling and discipline unit.
+
+                                                                      We also launched a national #Be Smart About Cyberbullying
+                                                                      Survey 2017 which seeks to gather the largest repository of
+                                                                      online bullying behaviour among secondary schoolchildren,
+                                                                      including the impact and effectiveness of actions taken to
+                                                                      overcome this challenge, sourcing from more than 5,000
+                                                                      secondary school students nationwide.
+Learning Robotic for Rural Students: In partnership with
+Petrosains, we organised a robotic programme, Young PI1M              In a partnership with the Malaysia Digital Economy Corporation
+Inventors Challenge, to provide secondary school students in          (MDEC), we helped built the cybersafety content for their
+rural communities with basic designing, coding and proximity          Mobile Learning Unit, a customised bus fitted with digital
+sensor training. Hosted at 1Malaysia Internet Centres (PI1Ms),        making tools, and information on digital technology and safe
+this eight-month programme engaged about 144 students from            use of the internet, which travelled to 92 rural schools. For
+48 schools located around 48 PI1Ms.                                   the third year, we collaborated with the Ministry of Education
+                                                                      and CyberSecurity Malaysia to run a CyberSAFETM in Schools
+                                                                      national video competition and school debate to encourage
+                                                                      dialogue on digital citizenship among school children.
+
+                                                                      Cultivating Digital Citizenship: We established a Digital
+                                                                      City Showcase in Petrosains, featuring interactive activities to
+                                                                      educate children who visit the science center around the themes
+                                                                      of cyberbullying and cybergrooming.
+
+                                                                      We also jointly created a Public Service Announcement (PSA)
+                                                                      video, ‘Fight Against Predator’, to inform parents on the role
+                                                                      they can play in identifying risks and mitigating the increasing
+                                                                      prevalence of cybergrooming.
+                                                                                                                    Sustainability
+
+                                                                                                           Digi.Com Berhad | Annual Report 2017    41
+
+
+
+
+Together with partners such as UNICEF, we organised                          discussion and participated as one of the expert panelists
+#SayaSayangSaya townhalls aimed at developing digital                        alongside Facebook and Google APAC. At the ASEAN Child
+resiliency to prevent children from being exploited by online                Online Protection Seminar, Digi was also recognised by the
+predators. 1,541 students from 318 schools (in addition to the               Ministry of Education as an industry leader in advocating safer
+42,100 viewers who tuned in to our Facebook Live stream)                     internet.
+were engaged through eight townhall sessions. Each townhall
+had expert speakers covering topical issues and a Q&A session                Other advocacy initiatives include partnering UNICEF to
+where youth were given a safe space to share their experiences,              organise two full day research workshops with 30 youths as
+concerns and solutions on internet-related sexual violence.                  part of their global annual publication of the ‘State of the World
+                                                                             Children’s Report’, and the participation of Digi’s CyberSAFETM
+Spearheading Cybersafe Advocacy: Together with UNICEF                        champion, Philip Ling, as one of the speakers at the PERMATA-
+and MCMC, Digi organised the ASEAN Child Online Protection                   led #CyberSAFETM Conference organised by three Ministries.
+(COP) 2D1N youth camp. We also facilitated a child panel
+
+
+
+
+Digi Digital City Showcase in Petrosains                                     CyberSAFETM in Schools Video Competition
+
+
+
+
+ASEAN Child Online Protection Seminar                                        #SayaSayangSaya Nationwide Townhalls
+
+
+  This is a summary of key sustainability initiatives undertaken by Digi in 2017. For more detailed information on sustainability governance,
+  material issues, stakeholder engagement, management approach, initiatives, and data trends, please go to our Sustainability Report
+  www.digi.com.my/sustainability and our public website www.digi.com.my/aboutus
+  KPMG has provided a limited external assurance of select indicators presented in this section of the Annual Report. The limited external assurance
+  opinion can be found on pages 171 to 173 of this Annual Report.
+
