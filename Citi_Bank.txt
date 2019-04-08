@@ -1,0 +1,1425 @@
+Finance for a
+Climate-Resilient Future
+Citi’s TCFD Report
+About This Report
+This report presents information on Citi’s business and operational climate performance and efforts towards implementing
+the Task Force on Climate-related Financial Disclosures (TCFD) recommendations, including the climate scenario analyses
+that Citi undertook as part of the UN Environment Finance Initiative (UNEP FI) Banking Sector Pilot Project alongside 15
+other financial institutions.
+
+
+This report is just the beginning of our journey to incorporate climate scenario analysis into our overall strategy and
+reporting. Climate scenario analysis is a new area for many companies, including Citi, and we expect the methodology and
+tools to conduct climate scenario analysis to evolve and improve over time. This report represents an important first step
+upon which we will build to deepen our understanding of climate risks and opportunities.
+
+
+
+
+2 | ­­­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­
+Table of Contents
+SECTION 1:
+Introduction                                                                             4
+
+SECTION 2:
+Climate Scenario Analyses                                                                8
+
+SECTION 3:
+Implementing the TCFD Recommendations                                                   24
+
+SECTION 4:
+Looking Forward                                                                         29
+
+
+
+
+                            FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­ | 3
+SECTION 1:
+
+Introduction
+
+Climate change is one of the most critical issues facing
+society today. As detailed in the latest Intergovernmental
+Panel on Climate Change (IPCC) Special Report, Global
+Warming of 1.5°C, climate change is already affecting many
+industries and regions globally, and the related impacts are
+only expected to increase.
+Sustainability — including efforts to address climate            and the sensitivity of our lending portfolios to potential
+risks — is a factor in how we do business to support             climate risks. While the efforts described in this report
+growth and enable progress. Combating climate change             represent only an initial sensitivity analysis — which
+is one of the main themes of our five-year Sustainable           was useful as much for the gaps it identified as for the
+Progress Strategy that sets out business drivers for             resulting outputs — we have prepared this report as a
+sustainability. Under Citi’s Sustainable Progress Strategy,      part of Citi’s commitment to ongoing transparency in the
+our sustainability activities are organized under three          evaluation of sustainability issues, including climate risks
+primary pillars, each of which relates directly to our efforts   and opportunities.
+on climate change:
+
+•   Environmental Finance
+                                                                 Citi’s Support of the Paris
+•   Environmental and Social Risk Management                     Agreement
+•   Operations and Supply Chain                                  In 2007, the IPCC, a scientific and intergovernmental
+                                                                 body established by the United Nations and tasked with
+Our work across these pillars is interrelated, and we look       providing an objective, scientific view of climate change,
+for innovations and best practices that can drive cross-         concluded that the impacts of climate change could be
+functional progress.                                             catastrophic if the world’s average temperature continues
+                                                                 to rise as projected. In December 2015, 195 countries,
+Stakeholder engagement and reporting have long been
+                                                                 including the U.S., entered into the Paris Agreement, a
+central to our sustainability efforts, and we will continue
+                                                                 global agreement to reduce emissions that have an impact
+to emphasize transparency and open engagement with
+                                                                 on the climate. The countries agreed, among other things,
+clients, investors, suppliers, employees and stakeholders as
+                                                                 that the increase in global temperature this century
+the foundation of our sustainability strategy, including as
+                                                                 should be kept below 2°C above pre-industrial levels and
+that strategy relates to climate change.
+                                                                 to pursue efforts to limit the temperature increase to 1.5°C.
+Citi’s participation in the United Nation Environment
+                                                                 Citi has been outspoken in our support of the Paris
+Finance Initiative (UNEP FI) pilot, and this resulting
+                                                                 Agreement. In May 2017, Citi CEO Michael Corbat, along
+report, are an important part of our efforts to enhance
+                                                                 with his counterparts in 30 other large companies,
+transparency and engagement with investors as we
+                                                                 signed an open letter to the U.S. President that laid
+evaluate different approaches to climate risk assessment
+                                                                 out the business case for the Paris Agreement. Even
+
+
+
+
+4 | ­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­
+though the U.S. announced it would be withdrawing from                 Citi was one of many stakeholders that engaged with the
+the Paris Agreement, we signed the “We Are Still In”                   TCFD during its public consultation process.
+declaration and continue to voice our support for the                  In June 2017, the TCFD presented its final
+global agreement due to the unique and widespread risks                recommendations for voluntary climate-related financial
+that climate change presents to society and to the global              disclosures. The recommendations included industry-
+economy. We believe that U.S. participation in the Paris               specific guidance for the financial services industry as well
+Agreement would strengthen American competitiveness in                 as for other sectors. The goals of these recommendations
+global markets, create jobs and support investments and                are to provide disclosures that are consistent, comparable,
+new market development by setting clear, long-term goals.              reliable, clear and efficient, and that provide useful
+                                                                       information to lenders, insurers, investors and regulators
+Citi remains fully committed to contributing to climate
+change solutions and global collaboration, and the Paris               to support good decision-making. Citi CEO Michael Corbat,
+                                                                       along with over 100 other company heads, signed a
+Agreement will remain a guiding framework for Citi’s
+                                                                       statement of support for the recommendations.
+public and private sector activities around the world.
+We recognize that adhering to the Paris Agreement’s                    The TCFD recommendations separate climate risks and
+goal of limiting global temperature increase may lead to               opportunities into two general categories — transition and
+more stringent policies and may affect certain sectors of              physical — and recommend that companies undertake
+the economy disproportionately. At the same time, this                 climate scenario analysis, as described in more detail
+transition from the status quo to a low-carbon economy                 within this report, to better understand and account for
+will create profitable business opportunities for many                 potential risks and opportunities under each category.
+organizations, including for banks like Citi. For example,             The TCFD defines transition risks and opportunities as
+environmental non-governmental organization Ceres                      those risks and opportunities that relate to technological
+expects that the transition to a low carbon economy                    innovations, policy changes, carbon pricing, and other
+“will generate tens of trillions of dollars of clean energy            factors in the transition to a low-carbon future. Under
+investment opportunities over the decades to come.” Citi               the TCFD framework, physical risk analysis is intended
+plans to be an active participant in this transition. In 2015,         to address the direct impacts of climate change, which
+we announced our $100 Billion Environmental Finance Goal               include acute extreme weather events or chronic changes
+to finance and facilitate $100 billion in investments toward           to climate that could affect companies’ businesses. TCFD‘s
+environmental and climate change solutions including                   discussion of physical opportunities includes the ability
+clean energy, infrastructure and technology.                           to provide a variety of services, including financing and
+                                                                       resilience planning, to mitigate exposure to physical
+Task Force on Climate-related                                          climate risks.
+
+Financial Disclosures
+In December 2015, the G20’s Financial Stability Board (FSB)
+appointed the Task Force on Climate-related Financial
+Disclosures (TCFD) to recommend a reporting framework
+for use by companies to provide investors and other
+stakeholders with information relevant to evaluating
+climate-related risks and opportunities. The FSB’s purpose
+in creating the TCFD was to generate greater understanding
+among stakeholders in the financial sector regarding the
+potential effects of climate change on global economic
+systems through enhanced disclosures. In developing its
+recommendations, the TCFD solicited and received input
+from various stakeholders, including financial institutions.
+
+
+
+
+                                                                 FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­ | 5
+The TCFD recommends that companies consider addressing four core categories of climate disclosure:
+
+
+
+                                           Governance
+                                           The organization’s governance around climate-related risks and opportunities
+                                           Strategy
+                                           The actual and potential impacts of climate-related risks and opportunities on the
+                                           organization’s business, strategy and financial planning
+                                           Risk Management
+                                           The processes used by the organization to identify, assess and manage climate-related risks
+                                           Metric and Targets
+                                           The metrics and targets used to assess and manage relevant climate-related risks and
+                                           opportunities
+
+
+Source: TCFD
+
+
+
+
+                                           The TCFD’s Suggested Implementation Path
+As shown in the graphic to the right,
+the TCFD does not expect companies to
+fully implement its recommendations
+immediately. Instead, it expects
+that companies will evolve in their
+understanding of potential climate risks
+and opportunities over time and that
+climate disclosures will correspondingly
+adapt over time.
+
+
+
+
+                                           Source: TCFD
+
+
+
+
+6 | ­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­
+UNITED NATIONS ENVIRONMENT                                            and where transition risks were expected to be prevalent)
+FINANCE INITIATIVE BANKING SECTOR                                     relative to a business-as-usual scenario of 4°C. The
+                                                                      participants in the UNEP FI pilot published their work on
+PILOT PROJECT                                                         developing a methodology to assess and disclose potential
+Following the publication of the TCFD recommendations,                transition risks and opportunities in a report, Extending
+16 leading global and regional financial institutions                 Our Horizons, in April 2018.
+— including Citi — announced that they would work                     UNEP FI released a second report, Navigating a New
+together with the United Nations Environment Finance                  Climate, which focuses on physical climate risk, in July
+Initiative (UNEP FI) on a pilot project to implement the              2018. Developed in consultation with Acclimatise, a U.K.
+TCFD recommendations “to develop scenarios, models                    based advisory and analytics company that specializes
+and metrics to enable scenario-based, forward-looking                 in climate change adaptation and risk management, the
+assessment and disclosure of climate-related risks and                physical risk methodology considers the physical impacts
+opportunities.” This collaborative project has enabled                from incremental (chronic) climate change and extreme
+participating financial institutions to work toward TCFD-             (acute) weather and climate events and how they may
+aligned climate-related disclosures in a credible and                 affect key credit risk metrics. Because physical climate
+timely manner.                                                        risks increase as global temperatures rise, the scenarios
+Consistent with the TCFD recommendations, the UNEP FI                 used to analyze potential physical risks were a 2°C
+pilot project focused its efforts on the two main categories          scenario and a business-as-usual scenario of 4°C.
+of climate-related risks and opportunities: transition                In assessing both categories of climate-related risks
+and physical. The pilot considered the transition risks               and opportunities, the UNEP FI pilot relied on the
+associated with the transition to a low-carbon economy,               climate models as well as extensive input from financial
+brought about by changes in policies (through the use of              institutions on how to integrate the models’ outputs into
+carbon pricing) and changes in technologies that reduce               their internal risk analysis. The pilot uncovered important
+greenhouse gas emissions or may impact the demand                     insights into different possible climate warming pathways
+for products that produce greenhouse gases. The pilot                 and their implications for financial institutions and their
+considered the physical risks companies face due to                   borrowers. We shared the findings and insights from
+physical changes in the climate from incremental (chronic)            our pilot climate scenario analyses for transition risks
+climate change, such as increased numbers of hot days                 and physical risks in Section 2 of this report. Through
+and changes in precipitation, and extreme weather (acute)             our participation in the pilot, we have gained valuable
+events, which are expected to increase in frequency                   experience in the process underlying climate scenario
+and severity.                                                         analysis and ideas for how this analysis can be improved in
+In assessing potential transition risks and opportunities,            the future, as described in Section 4 of this report.
+the participants in the UNEP FI pilot engaged Oliver
+Wyman, a global management consultancy with deep
+financial services and risk management expertise, to
+help develop a methodology and tool to perform climate
+scenario analysis. Oliver Wyman collaborated with two
+leading research institutions with climate modeling
+expertise — the Potsdam Institute for Climate Impact
+Research (PIK) and the International Institute for Applied
+Systems Analysis (IIASA) — to obtain climate scenario data
+from the integrated assessment models that those experts
+have developed. Climate scenarios considered in relation
+to transition risks were 1.5°C and 2°C scenarios (scenarios
+that are aligned with the ambitions of the Paris Agreement
+
+
+
+
+                                                               ­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­ ­­ | 7
+SECTION 2:
+
+Climate Scenario Analyses
+
+Scenario analysis is a way to test the potential business
+impacts of future events that include assumptions
+regarding policies, technologies, demand and various other
+macroeconomic factors.
+Scenario analysis is not a prediction of future events.          Citi has been piloting different types of climate risk
+In the context of climate change, many scenario                  analyses even before the TCFD published its final
+analyses explore possible futures that could keep global         recommendations. In 2016, we collaborated with the
+temperatures below 2°C above pre-industrial levels this          Natural Capital Finance Alliance and the UNEP FI to pilot
+century. Considering a variety of scenarios, including           test a drought stress-testing tool to better understand the
+different 2°C scenarios as well as those in which the 2°C        resilience of several lending portfolios to drought scenarios
+goal is not realized, allows companies to better assess and      in the U.S. and Mexico. We found that our portfolios were
+plan for the full range of potential risks and opportunities     resilient to drought in the U.S., with limited impacts on
+associated with climate change.                                  clients’ credit quality. Drought may have larger impacts on
+                                                                 clients in water-dependent sectors in Mexico but due to the
+Climate scenarios, such as those used in studies conducted       relative strength of the borrowers in our portfolios, this
+by the IPCC and in other climate impact studies, are             would not lead to major impacts on clients’ probability of
+often based on integrated models that take into account          default. More importantly, we learned how to set up our
+energy and land-use systems and socio-demographic                systems to undertake such climate-related stress tests.
+and economic projections. Because these models were
+built for macroeconomic and policy assessments, they             We followed this up with a stranded assets analysis to
+are limited in their ability to predict potential financial      calculate the likelihood that upstream oil & gas assets in
+impacts on individual companies or industries. As such, all      our energy portfolio would lose value because of a carbon
+companies undertaking scenario analysis face challenges          price or tax and how that would impact clients’ credit
+in determining how to synthesize the global-scale outputs        quality. This analysis found that larger companies would
+of these models into information that can be used to test        not be significantly affected in their ability to repay loans,
+their sensitivity to climate risks and the potential financial   but smaller service providers could be at risk if the price
+impacts on their business.                                       of oil continues to remain low, which has left some smaller
+                                                                 producers more financially vulnerable, and if regulatory
+The UNEP FI pilot is aimed at bridging the gap between           risks are not carefully managed.
+the macro outputs of the existing climate models and their
+potential effects on individual companies and industries.        Even though Citi has evaluated climate risks for years,
+In doing so, the pilot considers the transition risks and        climate scenario analysis is a new area of climate risk
+physical risks of climate change, and how those risks could      analysis for Citi. In the spirit of the UNEP FI pilot, Citi
+impact certain aspects of banks’ business under three            offers this report to help other companies consider how to
+global warming scenarios: 1.5°C and 2°C scenarios relative       undertake this analysis.
+to a business-as-usual 4°C scenario for transition risks, and
+2°C and 4°C scenarios for physical risks.
+
+
+
+
+8 | ­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­
+Transition Risk Analysis                                           group’s rationale for choosing a combined top-down and
+                                                                   bottom-up approach, can be found in Chapter 2 of the
+Transition Risk Methodology                                        UNEP FI report, Extending Our Horizons.
+
+After considering several different options, the UNEP FI           This three-module approach, although subject to
+pilot group settled on an integrated approach to assessing         limitations, allows for flexibility to assess different
+potential transition risks and opportunities that is both          sectors with the ultimate goal of providing climate-
+top-down (looking at sector-level portfolio impacts) and           related disclosures that are comparable across financial
+bottom-up (looking at borrower-level impacts). The three           institutions. By combining these three modules in the
+modules of the methodology — (1) transition scenarios,             scenario analysis, Citi was able to assess and improve our
+(2) portfolio impact assessment and (3) borrower level             understanding of certain aspects of potential climate risks
+calibration — are highlighted below. More information              and opportunities related to our portfolios and how we
+about the methodology and the modules, including the               can improve upon the approach for future climate
+                                                                   scenario analyses.
+
+
+
+
+Overview of the transition risk modules
+                                                                   Transition scenarios describe an evolving economic environment
+                                      PORTFOLIO IMPACT             in a consistent manner across time, sectors and geographies.
+                                        ASSESSMENT                 Scenarios provide detailed outputs which help assess the
+                                                                   economic impact on sectors.
+
+                                                                   Borrower-level calibration addresses the lack of empirical
+                                                                   data on corporate exposure to transition risk by using industry
+      TRANSITION
+      SCENERIOS                                                    experts and tailored assessment to estimate the scenario’s impact
+                                                                   on individual borrowers. Calibration specifies the relationship
+                                                                   between economic scenarios and credit outcomes.
+
+                                                                   Portfolio impact assessment uses a systematic and repeatable
+                                      BORROWER-LEVEL               approach to extrapolate the risk assessed by the other modules
+                                        CALIBRATION                (i.e., transition scenarios and borrower-level calibration) to the
+                                                                   remainder of the portfolio.
+
+
+
+
+Source: UNEP FI Report - Extending Our Horizons
+
+
+
+
+                                                             FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­ | 9
+Transition scenarios: Transition scenarios provide               project the impacts on our portfolio. For more information,
+important insights about certain aspects of possible             see the UNEP FI report, Extending Our Horizons.
+futures. However, these scenarios have limitations,
+including the lack of specific quantifications needed            Citi used the UNEP FI pilot’s integrated approach,
+to understand scenario impacts at a company level.               adapted to Citi’s situation and the data available to Citi,
+Additionally, transition scenarios are oriented toward use       in performing a sensitivity analysis of transition risks and
+in macroeconomic and policy assessment environments,             opportunities for borrowers in our North America oil & gas
+not toward use in financial analysis, and must be adapted        and U.S. utilities sectors. We understand that, as a member
+and translated into financial terms.                             of the pilot program, our role is not only to understand the
+                                                                 conceivable outcomes from scenario analysis in relation to
+Portfolio impact assessment: The lack of historical              our business but also to understand and relay to others the
+precedent for climate change in banks’ stress testing            limitations and obstacles we encountered in conducting
+increases the difficulty and subjectivity of stress testing      our analysis and recommendations for improving on
+and scenario analysis that financial institutions can            scenario analysis in the future.
+undertake. New data, tools, additional expertise, better
+integration with transition scenario outputs and extensive       Per the UNEP FI pilot methodology, we evaluated portfolio-
+iterative analysis are required to better understand the         level risks through a quantitative assessment of whether
+potential linkages between transition risks and credit           individual segments of the portfolios would be more
+quality within different sectors and subsectors.                 sensitive to transition risks and present a higher risk
+                                                                 of default. As noted in the UNEP FI report on transition
+Borrower-level calibration: There is currently little data       risks, the translation of model outputs (in the form of
+at the borrower level regarding climate-related risks            carbon prices and demand projections) to portfolio risk
+and opportunities, and relying on an assessment at the           evaluations requires a significant level of expertise and
+borrower level by bank experts is difficult to scale and         judgment to evaluate how portfolio companies may
+not comparable across banks. As part of the UNEP FI              respond to transition risks. Citi engaged a broad range of
+pilot and going forward, Citi has and will continue to           experts across our risk management and industry banking
+use the information available at the borrower level to           teams to ensure that this portfolio-level analysis was
+assess potential financial impacts under different climate       informed by the judgement of these groups and was based
+scenarios. As companies disclose more climate-related            upon reasonable assumptions of how portfolio companies
+information, Citi expects that banks’ assessments                might respond to transition risks.
+of borrowers’ risks from climate change will continue
+to improve.
+
+Oliver Wyman developed a transition risk tool for the
+pilot group that used borrower-level calibration points to
+calculate the scenario-implied probability of default and
+expected loss to the portfolio under different transition
+scenarios. Oliver Wyman adapted the scenario outputs
+from climate models into financial terms by translating
+those outputs into four key risk factors — direct emissions
+costs, indirect emissions costs, revenues and capital
+expenditures — that drive changes to the financial
+performance of companies. Citi considered the climate
+scenario outputs (such as price and energy mix) and these
+risk factors in our assessment of borrower-level risks for a
+sample of borrowers for each segment of our portfolio to
+understand potential transition risks and used the tool to
+
+
+
+
+10 | ­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­
+TRANSITION SCENARIOS                                              THE REMIND MODEL
+There are numerous pathways to reach a particular                 In conducting the transition scenario analysis as part
+temperature warming scenario, such as a 2°C scenario, and         of the UNEP FI pilot project, Citi used the 1.5°C, 2°C
+different climate models have different assumptions, drivers      and 4°C scenarios from the REMIND model developed
+and levels of granularity. While the methodology developed        within the CD-LINKS project. The CD-LINKS project
+by the UNEP FI pilot group and Oliver Wyman is compatible         explores the complex interplay between climate actions
+with different climate scenario sources, the group decided        and development at the global and national levels. We
+to pilot the methodology using specific scenarios. In             will consider using the MESSAGE model along with
+order to conduct climate scenario analysis, the pilot group       other models and scenarios in future analyses as the
+needed climate transition scenarios that were appropriate         methodology the pilot group has developed is compatible
+for financial analysis and that met the requirements              with other climate scenario sources.
+we had established for the project, including a number
+of different macroeconomic, energy-related and sector             The REMIND model uses the Shared Socioeconomic
+specific variables. To identify the most appropriate climate      Pathways, Representative Concentration Pathways
+scenarios, we undertook a thorough review of a number of          (“SSP-RCP”) scenario framework, which was developed
+different climate models and scenarios and assessed their         for analysis in the IPCC and provides a combination of
+usefulness for financial analysis based on the requirements       socioeconomic and emissions pathway assumptions to
+we had established and the following criteria:                    develop different climate scenarios. Researchers have
+                                                                  developed five Shared Socioeconomic Pathways (SSPs)
+•   The availability of scenario data for the three               that narrate different socioeconomic futures that have
+    temperature warming scenarios of interest                     implications for the challenge of climate change mitigation
+•   The coverage of the sectors and subsectors where we           and adaptation.
+    expect transition risk to be most material
+                                                                  The REMIND CD-LINKS scenarios used for this report
+•   The coverage of different regions of the world where          represent SSP2, which describes a “middle of the road”
+    the banks in the UNEP FI pilot group operate                  world where social, economic and technological trends
+                                                                  do not shift markedly from historical patterns and there
+Our review encompassed the landscape of climate                   is a medium level of challenges to climate mitigation and
+models, including integrated assessment models (IAMS)             adaptation. It combines the socioeconomic assumptions
+and models from the International Energy Agency (IEA),            from SSP2 with different representative concentration
+International Renewable Energy Agency (IRENA), and the            pathways (RCPs), which are based on varying levels of
+Deep Decarbonization Pathways Project (DDPP). Given the           greenhouse gas emissions concentrations, to develop
+pilot group’s requirements, which included the availability       scenarios for different temperature warming targets. A
+of a 1.5°C scenario and coverage of the agricultural sector,      summary of the assumptions is provided below.
+we selected two IAMs that most closely met the project’s
+criteria and requirements — REMIND-MAgPIE (REMIND)                REMIND Model Assumptions
+from PIK and MESSAGE-Globiom (MESSAGE) from IIASA
+— for use in the pilot. The scenarios derived from these          Description
+climate models are widely used around the world for               Transition risk occurs in a “middle-of-the-road” world
+policy and other analyses, including by the IPCC in its           where social, economic, and technological trends do
+recent special report, Global Warming of 1.5°C. As the            not significantly vary from historical patterns. Current
+vast majority of climate models, including these models,          policies are continued until 2020, at which point a
+were not originally developed for use in financial analysis,      carbon price begins to be implemented at a level that
+the pilot group further collaborated with the developers          ensures the world does not exceed 1.5°C or 2°C warming
+of these two models at PIK and IIASA to get access to             depending on the scenario.
+additional variables and increase data availability.
+
+
+
+
+                                                           ­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­ ­­ | 11
+Socio-economics                                                   Policy
+•   Population peaks at 9.5 billion people in 2070                •    A global carbon price implemented after 2020 is the
+                                                                       sole policy instrument for transition risk in the energy
+•   GDP continues to grow, with average global income
+                                                                       end-use sectors
+    increasing by a factor of 6 by 2100
+                                                                  •    The given carbon price is assumed to be the same
+•   Developing countries achieve significant economic                  across all regions, though regions have differing
+    growth, reaching current OECD average income levels                economic responses to prices
+    in the second half of the century
+
+Energy
+                                                                  Global Carbon Price
+•   Use of fossil fuels continues throughout the century,
+    although at declining rates, with the exception of coal,
+    which rapidly declines to under 2% of the total energy
+    mix by 2030
+•   Oil demand remains steady through 2030 due to
+    growing demand for liquid fuels in the transport sector,
+    whose growth does not peak until 2035 in the 2°C
+    scenario and 2030 in the 1.5°C scenario
+•   Reverse emissions technologies and carbon
+    sequestration through land use are critical in mitigating
+    the cost of carbon and reducing emissions
+                                                                  Source: Potsdam Institute for Climate Impact Research
+•   Use of renewable energy increases, accelerating rapidly
+    after 2030 through transmission, distribution and
+    storage investments
+•   Biofuels see demand increases, particularly in the
+    second half of the century
+
+
+
+U.S. Primary Energy Mix
+
+
+
+
+Source: Potsdam Institute for Climate Impact Research
+
+
+
+
+12 | ­­­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­
+Utilities Transition Scenario Analysis                                 impacts are likely to have the most significant negative
+                                                                       effect on utilities in the Unregulated Heavy Carbon
+Citi’s pilot transition risk analysis for the utilities sector         segment, with higher carbon intensity and less ability to
+included 39 companies in the U.S. covered by the U.S.                  pass along the new costs to customers.
+Power Sector team. These companies included both
+regulated utilities and independent power producers,                   Key Scenario Assumptions
+representing approximately $10 billion in exposure as of
+December 2017 and 30% of our global exposure to the                    Citi’s scenario analyses relied on the assumptions and
+power sector.                                                          outputs of the REMIND model’s CD-LINKS 1.5°C and 2°C
+                                                                       scenarios. There are a few assumptions in the REMIND
+Consistent with the approach recommended in the UNEP
+                                                                       CD-LINKS 1.5°C and 2°C scenarios that were key drivers
+FI pilot, we divided our U.S. utilities portfolio into four
+                                                                       of results in our portfolio-level risk analysis for the
+segments based on whether they are regulated or not and
+                                                                       utilities sector:
+the carbon intensity of their generation assets:
+                                                                       1.   The scenarios assume a global carbon price will be
+•   Regulated Heavy Carbon: primarily regulated utilities
+                                                                            implemented to reduce carbon emissions. In the
+    with significant generation assets for whom fossil
+                                                                            2°C scenario, there is a global carbon price per ton
+    fuel generation represents greater than half of their
+                                                                            of carbon dioxide of $68 (2010 USD) in 2030 that
+    generation portfolio
+                                                                            increases to $111 in 2040. In the 1.5°C scenario, the
+•   Regulated Low Carbon: primarily transmission &                          global carbon price is even higher, at $117 in 2030
+    distribution companies with low fossil fuel generation                  and $190 in 2040. This assumption adds to the
+•   Unregulated Heavy Carbon: primarily independent                         operating costs of utilities, particularly in the Heavy
+    power generation companies with significant fossil                      Carbon segments. Utilities can reduce some of the
+    fuel generation, including significant coal-fired                       costs from a carbon price by investing in capital
+    generation or peak gas-fired assets                                     expenditures for renewable generation and other low-
+                                                                            carbon technologies.
+•   Unregulated Low Carbon: primarily independent
+    power generation companies with significant                        2.   The scenarios assume that carbon capture and
+    renewable energy or efficient gas-fired assets                          storage (CCS) technologies will become commercially
+                                                                            viable, available and in use after 2030 to mitigate
+Approximately 75% of Citi’s exposure in the U.S. utilities
+                                                                            fossil fuel emissions. For utilities that continue to be
+portfolio is to regulated utilities, and approximately
+                                                                            reliant on fossil fuel generation, are able to withstand
+60% of Citi’s exposure in this portfolio is to heavy
+                                                                            the net income erosion until such technologies
+carbon companies.
+                                                                            become available and have the financial strength or
+As explained in more detail below, the scenario analysis                    regulatory support to afford the acquisition of such
+suggests greater impacts on the utility sector than on the                  technologies, this assumption helps to lower direct
+oil & gas sector. The REMIND model’s CD-LINKS scenarios                     emissions costs due to a carbon price. Citi recognizes
+use a global carbon price, which is assumed to be paid by                   that this assumption requires rapid acceleration
+the companies that use fossil fuels and emit greenhouse                     in CCS technology development, beyond what is
+gases. Accordingly, under the scenarios, utilities are                      feasible today.
+directly impacted by the price of carbon, whereas
+                                                                       3.   The scenarios assume that electricity prices will
+oil & gas producers are indirectly impacted through
+                                                                            increase due to growing adoption of electric
+the reduction in fossil fuel demand caused by carbon
+                                                                            vehicles and greater electrification of the transport
+prices. Utilities would face the choice of making capital
+                                                                            sector, which drive up demand for electricity. This
+expenditures to generate less carbon or absorb losses
+                                                                            assumption benefits utilities in both the Regulated
+from carbon pricing, which increases over time. These
+                                                                            and Unregulated segments by increasing revenues.
+
+
+
+
+                                                                 FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­ | 13
+4.   The scenarios assume a different fuel mix for                carbon prices. Another key differentiating factor between
+     electric generation in 2030 and 2040 than today.             companies in the utilities industry and their potential
+     This implies the utilities sector will need to make          resiliency to climate transition risks is whether they are
+     significant capital expenditures to transition away          regulated utilities. Regulated utilities (both low carbon
+     from coal to renewables.                                     and heavy carbon) may have the ability to pass on costs
+                                                                  to customers whereas companies in the Unregulated
+                                                                  segments are subject to competitive market dynamics and
+U.S. Electricity - Fuel Sources                                   may be unable to pass on costs associated with carbon
+                                                                  or capital expenditure investments. Because of this, we
+                                                                  segmented the companies in the portfolio using these
+                                                                  factors and analyzed companies within each segment
+                                                                  differently with regard to potential transition impacts to
+                                                                  their financial position and portfolio strength.
+
+                                                                  Within a segment, a key factor in a company’s financial
+                                                                  resiliency to transition risks is its current credit rating.
+                                                                  Companies that started out with higher credit ratings were
+                                                                  shown to have a larger financial cushion to absorb the
+                                                                  costs of transition risks and maintain a better scenario-
+                                                                  implied credit rating by the time that carbon prices were
+Source: Potsdam Institute for Climate Impact Research             fully implemented in 2030 and 2040 than companies that
+                                                                  started out with lower credit ratings.
+
+Citi did not independently analyze the potential viability of     As expected, due to these factors, the greatest impacts
+the assumptions under the REMIND model’s scenarios.               under the transition scenarios are to the Unregulated
+                                                                  Heavy Carbon segment. Unregulated companies in our
+Citi applied the borrower-level calibration methodology           portfolio tend to have a lower starting credit rating. In
+developed by the UNEP FI pilot group in partnership with          addition, Unregulated Heavy Carbon companies are also
+Oliver Wyman. A subset of the 39 companies considered             expected to face bigger transition risks related to carbon
+in this analysis was used to calibrate the relative sensitivity   price or capital expenditure costs or both, yet are unable
+of each of the four above-mentioned industry segments to          to pass these costs to customers.
+the key transition risk factors identified in the pilot: direct
+emissions costs, indirect emissions costs, revenues and           Under the REMIND CD-LINKS 2°C scenario in 2030 and
+low-carbon capital expenditures. We utilized the transition       2040, Regulated Heavy Carbon companies faced higher
+risk tool developed by Oliver Wyman to calculate the              emissions costs and required greater capital expenditures
+scenario-implied probability of default for Citi’s portfolio      than Low Carbon companies, but their transition risk was
+based on the borrower-level calibration points.                   mitigated by their potential ability to pass on such costs
+                                                                  to ratepayers over the same timeframe as such costs
+Findings                                                          were assumed to increase. These companies experienced
+                                                                  a scenario-implied downward credit rating migration of
+In the utilities transition analysis, a few important             one to two notches, depending on their current credit
+differentiating factors impacted the potential financial          rating. Unregulated Heavy Carbon companies, which
+performance of the companies under the climate scenarios          cannot pass on costs to ratepayers, experienced a two
+explored, enabling some companies to manage the                   to three notch downward migration to their scenario-
+transition more successfully. An obvious differentiator           implied credit rating. These companies were assumed to
+is whether a utility is heavy or low carbon, as utilities         incur increasingly higher leverage to invest in low-carbon
+with a lower carbon footprint will be less impacted by            capital expenditures until 2030, and experienced greater
+
+
+
+
+14 | ­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­
+deterioration in debt service coverage due to higher              Oil & Gas Transition Scenario Analysis
+emission costs and higher debt service.
+                                                                  For our oil & gas pilot, Citi focused on our North American
+In 2030 and 2040, under the REMIND CD-LINKS 2°C                   exploration and production (E&P) portfolio in our
+scenario, Regulated Low Carbon companies that currently           institutional franchise, which included 88 companies based
+have an investment grade rating maintained their scenario-        in the U.S. and Canada. Citi categorized the companies in
+implied investment grade credit rating. Highly-rated,             this portfolio into four segments based on their drilling and
+non-investment grade Regulated Low Carbon companies               extraction methodologies:
+experienced a one notch downward migration to their
+scenario-implied credit rating, implying they would still         •   Conventional: companies that use traditional
+be able to access U.S. Leveraged Finance credit markets.              drilling methods
+Unregulated Low Carbon companies would experience                 •   Shale: companies that extract oil & gas from shale or
+a scenario-implied downward credit rating migration of                use non-conventional means
+one to two notches, similar to Regulated Heavy Carbon
+companies. While they had lower emissions costs and               •   Offshore: companies that drill oil & gas below
+capital expenditures requirements than Regulated Heavy                the seabed
+Carbon companies, they did not have the ability to pass on        •   Multi-segment: companies using multiple production
+such costs to ratepayers through tariff increases over time.          methodologies
+However, some of the costs faced by both Unregulated
+Low Carbon and Unregulated High Carbon companies were             The companies in our North American E&P portfolio
+offset by higher expected revenues. They were assumed             accounted for a combined total of approximately $13
+to benefit from the higher power prices projected in the          billion in exposure for Citi as of November 2017. This
+scenarios, as carbon prices would increase the marginal           represents the majority of Citi’s global E&P exposure,
+cost of generating power and there was higher demand              at nearly 80%. Shale companies made up the largest
+for electricity from electrification of the transport sector,     segment of this portfolio, accounting for over half of
+leading to higher power prices.                                   the companies and nearly half of our exposure. Multi-
+                                                                  segment companies are larger and have more diversified
+Historically, it has been difficult to anticipate the pace of     assets. While they represented only a small percentage
+adoption of new technologies. For example, many entities          of the companies in our North American E&P portfolio,
+have underestimated how quickly renewable energy would            they too also accounted for nearly half of Citi’s exposure.
+grow and there are numerous other instances where                 Conventional and offshore companies comprised about
+experts have failed to anticipate the rapid growth of             a quarter of the companies in this portfolio and a small
+disruptive technologies. This matters because the rate at         fraction of our exposure.
+which policies and technologies shift can have an effect
+on companies’ credit ratings as it affects their ability to       As explained in more detail below, Citi’s pilot analysis did
+adapt and act. Rapid change may prevent some companies            not find the potential for significant transition risks in our
+from implementing strategies to mitigate climate risk             oil & gas portfolio in 2030 and 2040. This is likely due to a
+and capitalize on climate opportunities while rewarding           combination of factors, including the relatively long time
+others that are able to capitalize on potential opportunities     horizons over which transition impacts are experienced
+quickly. The utilities sector has been steadily moving away       and assumptions in the underlying modeling regarding
+from reliance on fossil fuels and investing in renewable          future demand for oil & gas during this time period. In the
+energy generation as it becomes more competitive with             REMIND model’s CD-LINKS scenarios, demand and prices
+conventional fuels. Citi has been helping our clients             for fossil fuels remain close to current levels through 2030,
+finance this energy transition. We expect to see this trend       leading to limited impact on the credit quality of a portfolio
+continue and will continue our engagement with clients to         like Citi’s North American E&P portfolio.
+help them invest in low-carbon technologies that reduce
+their exposure to transition risks.
+
+
+
+
+                                                            FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­ | 15
+Key Scenario Assumptions                                                   acceleration in CCS technology development,
+                                                                           beyond what is feasible today.
+Citi’s oil & gas transition scenario analysis also relied on
+the assumptions and outputs of the REMIND model’s CD-            3.        The scenarios assume that the spot price of oil & gas
+LINKS 1.5°C and 2°C scenarios, which we described earlier.                 remains robust and even increases in 2030 and 2040
+However, the scenario assumptions that are important to                    in most of the scenarios analyzed, with the exception
+consider when evaluating the results of a portfolio-level                  of natural gas in the 2030 timeframe under a 1.5°C
+risk analysis for the oil & gas sector are different than                  scenario as compared to the possible price in 2020.
+those for the utilities sector or have different implications
+for the oil & gas sector:
+
+1.   In the scenarios, oil & gas serve as short-term                 Oil historical and scenario projected U.S. spot price
+                                                                     (2010 USD / BBOE)
+     substitute fuels as the world quickly transitions away
+     from coal. In addition, demand for transportation                                       2010      2020       2030       2040
+     grows rapidly and oil is assumed to remain an                   4°C (baseline)         $60.60     $71.56    $84.74      $93.06
+     important transport fuel that is not easily substituted
+                                                                     2°C                    $60.60     $71.56    $83.87      $88.86
+     in the short-term. Consequently, under the 2°C
+                                                                     1.5°C                  $60.60     $71.56    $77.82      $79.40
+     scenario, U.S. oil demand increases between 2020 and
+     2030 and first starts to fall between 2030 and 2040.
+                                                                     Natural gas historical and scenario projected U.S. spot price
+     Even in a 1.5°C scenario, oil demand remains relatively         (2010 USD / MMBTU)
+     robust and does not fall sharply until after 2030.
+                                                                                             2010      2020       2030       2040
+                                                                     4°C (baseline)          $6.56     $7.16      $7.77      $8.39
+                                                                     2°C                     $6.56     $7.16      $7.32      $7.39
+U.S. Oil Demand                                                      1.5°C                   $6.56     $7.16      $7.11      $7.22
+
+                                                                 Source: Potsdam Institute for Climate Impact Research
+
+
+
+
+                                                                 Citi did not independently analyze the potential viability of
+                                                                 the assumptions under the REMIND model’s scenarios. We
+                                                                 note only that the projected futures in these scenarios are
+                                                                 a limited set of the countless possibilities of how the future
+                                                                 of energy demand and prices may evolve.
+Source: Potsdam Institute for Climate Impact Research
+                                                                 Findings
+                                                                 In applying the REMIND CD-LINKS 2°C scenario and the
+2.   The scenarios assume that carbon capture and                UNEP FI pilot methodology to calculate the change in
+     storage (CCS) technologies become commercially              scenario-implied probability of default from transition risk,
+     viable, available and in use after 2030 to mitigate         Citi estimates that the impacts to our North American
+     fossil fuel emissions. One consequence of this              E&P portfolio would be limited in 2030 and 2040. These
+     assumption is that demand for fossil fuels declines         results are driven by the model scenario assumptions.
+     more slowly than would be the case without the              Climate transition scenarios, such as the ones we used
+     successful development of such technologies. As             for our analysis, generally assume an orderly low-carbon
+     we noted earlier, this assumption requires rapid            transition to minimize disruptions to the economy.
+
+
+
+
+16 | ­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­
+The REMIND CD-LINKS scenario assumptions that we                      of decline, margin compression led companies to develop
+highlighted — which resulted in relatively robust oil & gas           better drilling and production technologies that reduced
+demand and prices in the short to medium term — limited               operating and breakeven costs. However, it is unclear
+the potential transition risks and impacts to the oil & gas           whether companies would be able to adapt these kinds of
+sector in the timeframe that we explored. If Citi were to             mitigating measures if longer-term demand and price were
+test other scenarios that limit warming to within 2°C that            to decline.
+have less conservative assumptions for coal reduction (i.e.,
+less reduction in coal, which would reduce the demand                 The velocity of change in energy prices is a factor we
+for oil & gas as short term fuel substitutes) and carbon              usually consider in our credit analysis. However, the
+sequestration, we could potentially see stronger impacts              REMIND model does not provide specific information
+on oil & gas companies’ credit ratings as the demand and              regarding the rate of transition in energy demand and
+price of oil & gas would need to decrease more to achieve             prices year-to-year. A rapid shift in policies or the rapid
+the same temperature target.                                          adoption of disruptive new technologies that negatively
+                                                                      impacts energy prices or demand may increase transition
+Under the assumptions in the REMIND CD-LINKS 1.5°C                    risks and would have a higher likelihood of affecting
+scenario, there are potential impacts in certain segments             clients’ credit quality, as it limits companies’ ability to
+of our oil & gas portfolio. Companies with the highest                respond and adapt to the changes.
+marginal operating costs would be the first to be impacted
+due to lower oil & gas prices in this scenario and higher             Due to the assumptions discussed above, the scenarios we
+carbon prices. Generally, in North America, offshore                  analyzed project limited impacts for companies within the
+companies have the highest production costs, followed                 oil & gas sector for the time periods we assessed (2030
+by shale and then conventional. Consequently, under                   and 2040). Impacts would likely become more severe over
+this scenario, transition risks start emerging for offshore           time as demand for oil & gas is projected to fall sharply
+companies between 2020 and 2030 that may result in a                  after 2040 in both the 1.5°C and 2°C scenarios. Citi plans
+slight deterioration to their credit rating of one notch for          to continue assessing climate-related scenario data and
+offshore companies during this period. Between 2030 and               developing our internal expertise. The internal capabilities
+2040, demand for oil & gas would then decline sharply,                to conduct climate scenario analysis that we have
+causing a more significant difference in projected oil                developed through the pilot project serve as an important
+& gas prices between the 1.5°C and 4°C (business-as-                  foundation upon which we will build. Furthermore, the
+usual) scenarios. By 2040, under the 1.5°C scenario, a                transition risk methodology that we co-developed as a
+broader range of higher-cost producers may be adversely               part of the UNEP FI pilot group and used in this analysis
+impacted. During this period, while we do not expect                  is compatible with other scenarios. This will allow us to
+to see changes to the credit ratings of clients in the                conduct more robust scenario analysis for the sectors
+conventional segment since they are the most efficient                considered in this report as well as other sectors in our
+producers, other client segments could see a downward                 portfolio in the future using the REMIND model or other
+migration of their scenario-implied credit ratings by one to          climate models.
+two notches.
+
+Of course, credit ratings can also be affected by the
+actions that companies take in response to lower prices
+and demand to manage their operating margins, liquidity
+and leverage. Citi analyzed the most recent decline in oil
+prices in 2014 to 2017, when oil prices fell drastically from
+an average of approximately $100 per barrel during the
+2011 to 2014 boom to an average of approximately $50
+per barrel from 2014 to 2017, and assessed how companies
+responded to lower prices and demand. During that period
+
+
+
+
+                                                                FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­ | 17
+Physical Risk Analysis                                              gathering asset-level data that includes information on an
+                                                                    asset’s location and capacity. We estimated the potential
+Physical Risk Methodology                                           change in production from incremental climate change and
+                                                                    extreme weather events for each asset within a borrower’s
+The UNEP FI pilot group worked with Acclimatise to                  portfolio based on the climate risks it would be exposed
+develop a physical risk methodology for the energy sector           to given its location. We then aggregated the change in
+that looks at how incremental changes in climate and                production across all of the assets within the borrower’s
+changes in extreme events can affect the productivity,              portfolio to assess the overall potential financial impacts to
+revenue and costs of borrowers within the sector, and               the borrower’s revenue, equity and credit rating.
+ultimately their probability of default. More information
+about the methodology can be found in Chapter 2 of the              Utilities Physical Risk Analysis
+UNEP FI report, Navigating a New Climate.
+                                                                    Citi piloted the physical risk methodology on our U.S.
+To calculate the impacts of climate change on productivity,         utilities portfolio. For this analysis, we started with the
+the UNEP FI pilot group relied on peer-reviewed literature          same set of 39 companies we examined in the utilities
+for the change in productivity due to incremental climate           transition risk pilot. However, only 24 companies were
+change and on empirical evidence for production losses              ultimately included in the pilot physical risk analysis based
+due to extreme weather events. Given the uncertainties in           on the availability of asset-level data. The sample included
+climate models and sector impact models, where there was            both regulated and unregulated utilities, most of which
+a range of potential changes in productivity, Citi used the         had a mix of generation and transmission & distribution.
+worst case change to minimize our risk of underestimating           We based our assessment of the impacts of incremental
+the potential impacts of physical risks on our portfolio.           climate change on projections of changes in power plant
+                                                                    production, and our assessment of the impacts of extreme
+Since physical climate risks can vary greatly based on              weather events by projecting losses due to downtime after
+location, to understand the potential impacts of physical           such events.
+risks to a potential borrower, the risks must be assessed
+for each asset within a borrower’s portfolio. This requires
+
+
+
+
+Physical Risk Methodology
+
+    PHYSICAL RISK SCENARIOS                                                  ENERGY SECTOR PORTFOLIOS
+
+      Incremental changes in climate
+                                                                Sector                Revenues                Probability
+                                                              productivity             & cost of              of default
+        Changes in extreme events                                                     goods sold
+
+
+
+
+Source: UNEP FI Report - Navigating a New Climate
+
+
+
+
+18 | ­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­
+Methodology                                                         data and asset-level data to understand our exposure to
+                                                                    various climate risks.
+We needed a mix of climate and client data to analyze
+physical risk. The types of data we gathered and used,              In the analysis, we considered three types of extreme
+including their sources, are highlighted below.                     weather events — cyclone, excessive heat and storm surge
+                                                                    — and incremental climate change. Cyclones and storm
+Bloomberg collaborated with the UNEP FI pilot group                 surge both have the potential to impact power plants by
+to provide a data solution that reduced the challenge               disrupting operations during extreme weather events and
+of gathering climate data and asset-level data for the              post-event downtime while necessary repairs are made.
+physical risk analysis. Bloomberg consolidated climate              Excessive heat, on the other hand, is a chronic stressor
+data and asset-level global power generation data into a            that can reduce the operational efficiency of power plants.
+dataset called Power Plants Climate in Bloomberg MAPS.              Since our analysis, Bloomberg MAPS has incorporated
+This enabled us to use Bloomberg MAPS to quickly and                additional extreme weather hazards that were not
+efficiently access much of the data we needed. In addition,         available at the time we conducted our analysis.
+Bloomberg MAPS allowed us to visually overlay climate
+
+
+
+
+Physical Risk Analysis - Data & Sources
+
+                           DATA                                                                  SOURCE
+
+
+                                                                       We accessed climate data from a database prepared by
+  Climate data, including data on extreme weather                      Bloomberg. The climate data in Bloomberg comes from a
+  frequency and incremental (chronic) climate change.                  variety of sources, including Think Hazard, UNEP Grid and
+                                                                       Acclimatise.
+
+
+                                                                       We accessed asset-level data on utilities from a database
+  Client data, including asset-level data such as location,            prepared by Bloomberg.
+  generation type and generation capacity.                             Other client data came from internal sources and external
+                                                                       data providers including SNL Financial.
+
+
+
+                                                                       Acclimatise provided the change factors based on scientific
+  Climate change factors to predict future probability of
+                                                                       studies of potential change in future extreme weather
+  extreme weather events.
+                                                                       probability.
+
+
+
+                                                                       Climate impact data came from Acclimatise’s analysis of
+                                                                       scientific studies regarding extreme weather events and their
+  Impacts of climate on the sector, including how it
+                                                                       effect on downtime to utilities, and Acclimatise’s analysis of
+  affects production, output and facility downtime.
+                                                                       scientific studies on incremental changes in climate (such as
+                                                                       rising temperatures and changes in precipitation patterns).
+
+
+
+
+                                                              FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­ | 19
+Extreme Weather Risks for Global Power Plants in Bloomberg MAPS
+
+
+
+
+Source: Bloomberg
+
+
+
+
+Source: Bloomberg
+
+
+
+
+20 | ­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­
+Source: Bloomberg
+
+
+
+
+Citi analyzed physical climate risks under a 2°C scenario          a plant falls by one percent, revenue falls by one percent).
+that corresponded to IPCC RCP 2.6 (often described as
+a pathway that provides a good case for limiting climate           For extreme weather impacts, we calculated the
+change impacts) and a 4°C scenario that corresponded to            potential period of inoperability if an event occurred at
+IPCC RCP 8.5 using data from scientific studies of climate         an asset’s location based on the asset type (e.g., fossil
+and potential climate impacts (e.g., availability of water         fuel generation, nuclear generation or hydropower
+on power production in the future) under those warming             generation) and assumed a one-to-one correlation
+scenarios. We did not use the REMIND model’s climate               between days of operation and revenue (e.g., if a plant
+transition scenarios since the assumptions and outputs             is not operational for one percent of the year, revenue is
+of those scenarios (e.g., fuel prices and demand) are not          reduced by one percent).
+relevant for analyzing physical risks.
+                                                                   Citi took the current baseline extreme event risk (based
+Using the data discussed above and the UNEP FI pilot               on historical records and present day projections) at an
+methodology developed in partnership with Acclimatise,             asset’s location from the climate data and applied a “worst
+Citi calculated the impacts of incremental climate change          case change factor” (i.e., the largest production losses)
+and extreme weather events on the production capacity              for extreme event frequency based on scientific studies
+of our clients and then translated that into the potential         provided by Acclimatise. This allowed us to consider
+impacts on our clients’ revenue and equity.                        different possible futures related to extreme weather
+                                                                   events and their impacts.
+For incremental climate change, we considered how
+expected changes in climate factors such as precipitation
+and temperature may affect the future productivity of
+thermal and hydropower plants based on data provided by
+Acclimatise that is sourced from peer-reviewed scientific
+literature. We assumed a one-to-one relationship between
+productivity decline and revenue (e.g., if the productivity of
+
+
+
+
+                                                             FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­ | 21
+                                                                Findings
+
+    CAUSES OF LOSS UNDER                                        Under the 2°C scenario, production for the utilities we
+    PHYSICAL RISK SCENARIO                                      analyzed may decline between 9.5% and 15.1% due to
+                                                                physical climate risks, with an average decline of 11% by
+    ANALYSIS
+                                                                2040. Under the 4°C scenario, production from generation
+    The pilot physical risk analysis considered two             may decline between 10.7% and 15.1% due to physical
+    important types of risks: incremental losses                climate risks, with an average decline of 13.2% by 2040.
+    in production due to changes in the climate
+                                                                Our analysis found that the majority of the impacts
+    (e.g., increased temperatures, changes in water
+                                                                under either scenario are associated with incremental
+    availability) and downtime due to extreme
+                                                                climate change rather than extreme weather events,
+    weather events.
+                                                                which garner greater attention due to the severe impacts
+    Incremental Risks: Climate change will, among               they can cause. Under the different warming scenarios,
+    other things, impact average global temperatures,           it is widely accepted in the scientific community that
+    precipitation patterns and sea levels. These                extreme weather events will likely increase in frequency
+    factors represent changes in state that in many             and severity; however, the overall probability of extreme
+    cases are best viewed as gradual, incremental               weather events is still relatively low, so the probability of
+    changes that manifest as chronic stressors.                 extreme weather impacting assets included in our analysis
+    These stressors can cause losses over time due              was commensurately low. On the other hand, incremental
+    to changes in ambient operating conditions. For             changes in climate such as rising temperatures and
+    example, if power plant operations rely upon                changes in precipitation are already underway and can
+    cooling water intakes and the water bodies where            lead to chronic problems that have long-term implications
+    their intakes are located increase in temperature,          on the financial performance of borrowers.
+    they will lose cooling efficiency, reducing the
+    overall operational efficiency of the plant.                We applied the average projected production declines
+                                                                to three regulated utilities and three independent
+    Extreme Weather Events: Climate change is
+                                                                power producers that are representative of the U.S.
+    projected to impact the frequency and severity
+                                                                utilities portfolio to examine the potential impacts of
+    of extreme weather events, increasing the
+                                                                physical climate risks in 2040. This analysis assumed
+    magnitude of disaster losses. Extreme events
+                                                                that financials of the portfolio companies would stay
+    are best characterized as irregular occurrences
+                                                                constant at 2017 levels. We concluded that without
+    that are acute stressors. In the aftermath of an
+                                                                incremental investments to address physical climate risks,
+    extreme weather event, power producers will face
+                                                                the scenario-implied credit ratings of over half of the
+    downtime while key facilities and infrastructure
+                                                                utilities analyzed would be reduced by one notch under
+    are rebuilt or repaired.
+                                                                both the 2°C and 4°C scenarios. Since warming targets
+                                                                are for this century, temperatures do not significantly
+                                                                diverge between the 2°C and 4°C scenarios until after
+                                                                the 2040 time period. As a result, when looking at the
+                                                                credit impacts to our portfolio in 2040, we did not see a
+                                                                difference between the two scenarios.
+
+                                                                We encountered limitations using the data and
+                                                                methodology described above, including the following:
+
+                                                                •    At the time of analysis, Citi did not have data on
+                                                                     the potential impacts of drought, wildfire and river
+
+
+
+
+22 | ­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­
+    flooding. We plan to consider these types of physical
+    risks in the future as data becomes available.
+•   Citi did not have data to consider damage to assets or
+    other secondary impacts.
+•   We recognize that some of the simplifying
+    assumptions that we used are not representative of
+    how physical risks may affect clients. For example,
+    most power plants are not fully utilized all of the
+    time. If an extreme weather event were to occur, the
+    impacts of downtime may be less severe for clients
+    that are able to shift production to other facilities. We
+    currently do not have data on asset utilization and
+    clients’ ability to shift production after an extreme
+    weather event, so we assumed any downtime would
+    correspond to a one-to-one decline in revenues.
+•   We did not consider how insurance may mitigate the
+    risks from downtime and the costs of asset damage.
+    As damage and losses from climate change increase,
+    premiums will likely increase and may even become
+    prohibitively expensive. In addition, as risks increase,
+    certain policies that exist today may no longer be
+    available in the future. Hence, we did not assume
+    that insurance would mitigate risks in our physical
+    risk analysis.
+•   We did not consider clients’ investments in climate
+    adaptation measures at their sites and facilities, which
+    may reduce or prevent physical risk impacts, as we did
+    not have this information.
+
+Changes in climate are already underway and projected
+to grow if we do not take actions to reduce emissions.
+Significant attention has been paid to emissions reduction
+and decarbonization, but climate mitigation and adaptation
+are also critical. In addition to helping clients manage
+transition risks through financing renewable energy, energy
+efficiency and other low-carbon technologies, Citi sees an
+opportunity to help clients become more climate resilient
+by providing financing solutions for climate adaptation. One
+example of a financial product for physical risk is catastrophe
+bonds, which help spread the risk of disaster events to
+investors and help to raise money in case of a disaster such
+as a hurricane. We are committed to engaging with clients to
+manage their physical climate risks through investments that
+reduce their vulnerabilities to changes in climate.
+
+
+
+
+                                                                FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­ | 23
+SECTION 3:
+
+Implementing the TCFD
+Recommendations
+We believe that the value of climate scenario analysis is not
+in the final outcome but in understanding the sensitivities
+to climate risks and opportunities and the range of possible
+outcomes for risk management and strategic planning.
+Our engagement in the UNEP FI pilot gave us the
+opportunity to reflect on the steps that we have taken to
+                                                                Governance
+understand and manage climate-related risks and take            The TCFD recommends that companies disclose
+advantage of climate-related opportunities. The pilot           information about their current governance structure for
+project required collaboration across numerous teams            assessing climate-related risks and opportunities.
+within the bank, enabling us to raise climate awareness
+across the company. We also used this opportunity to            Board Oversight
+think critically about our current practices in relation to
+the TCFD recommendations: (1) Governance, (2) Strategy,         Citi actively manages how climate change factors into our
+(3) Risk Management and (4) Metrics and Targets. In this        decisions and who in our corporate structure is responsible
+section, we highlight some of the steps that Citi has taken     for climate-related decisions. Given the importance of this
+and areas that Citi will continue to assess to increase our     topic, the Citi Board of Directors provides oversight of
+climate resiliency.                                             climate change through our Nomination, Governance and
+                                                                Public Affairs Committee (NGPAC), with ample support
+As noted in the UNEP FI reports, one of the unique              from management and other business units.
+issues with the assessment of climate risk in the financial
+services sector is that the time horizons for lending —         The Committee oversees our global citizenship and
+typically less than five years — are much shorter than the      sustainability activities and performance, including as
+time periods over which climate risks are anticipated to        related to climate change. Examples of the initiatives
+result in material financial impacts on portfolio companies.    the Committee oversees include our $100 Billion
+Climate change risks are expected to manifest themselves        Environmental Finance Goal and the decision to prepare
+over decades and accelerate beyond the 2040 time                this report. For more information on the roles and
+frame. As such, Citi foresees opportunities to manage           responsibilities of the committee, please see our
+our climate risks by continuing to engage with clients on       NGPAC Charter.
+climate risks and scenarios, and managing our lending
+portfolios to be responsive to changes in climate-related       Senior Management Responsibilities
+risks and opportunities over time. For example, Citi has
+                                                                At the senior executive level, corporate citizenship at Citi is
+made a commitment to reduce our global credit exposure
+                                                                led by the Director of Corporate Citizenship. The Director
+to coal mining companies. As we look at our client
+                                                                provides progress reports to the NGPAC at least annually
+relationships and lending portfolios going forward, our
+                                                                on issues, trends and results pertaining to some of the
+goal is, through client engagement and due diligence, to
+                                                                company’s most important citizenship and sustainability
+support our clients as they transition and manage risks
+                                                                issues. The progress reports include updates on the
+and opportunities by integrating climate assessments into
+                                                                implementation of Citi’s Sustainable Progress Strategy,
+our overall risk management practices.
+                                                                which focuses on climate change and other sustainability
+
+
+
+
+24 | ­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­
+issues, and our global and regional sustainability initiatives.     how companies integrate climate risks and opportunities
+                                                                    into their decisions over different time horizons. The results
+The Global Head of Sustainability oversees Citi’s                   of Citi’s most recent climate scenario analysis are provided
+Sustainable Progress Strategy and also collaborates with            in Section 2 of this report.
+a range of senior leaders to enable the development and
+implementation of climate-related metrics and targets, as           As referenced previously, Citi’s comprehensive, firm-wide
+well as other goals and programs that generate a positive           Sustainable Progress Strategy includes climate change as
+impact on society.                                                  a priority thematic area. Our Sustainable Progress Strategy
+                                                                    is aligned with Citi’s mission to serve as a trusted partner
+The Environmental and Social Advisory Council (ESAC),               to our clients by responsibly providing financial services
+a senior executive level advisory council, provides                 that enable growth and economic progress and guides our
+guidance on environmental and social issues related                 work to conduct business in a way that creates value for
+to global business activities, including advising on the            our company and for future generations. On the financing
+Sustainable Progress Strategy. The Council is chaired by            side, we partner with clients to finance and facilitate
+a senior executive in our Institutional Clients Group and           environmental solutions that reduce the impacts of climate
+includes executives from our Banking, Risk, Public Affairs,         change and manage the environmental and social risks and
+Operations, Corporate Sustainability and Environmental              impacts associated with our products and services. On the
+and Social Risk Management (ESRM) groups. Our ESAC                  operational side, we actively manage our global facilities
+holds meetings approximately three times per year. Citi also        and supply chain to reduce our emissions and minimize our
+has a cross-functional Climate and Sustainability Council,          climate impacts. Stakeholder engagement and reporting
+based in London, focused specifically on our sustainability         are central to our sustainability efforts, and we emphasize
+performance in Europe, the Middle East and Africa.                  transparency and open engagement with clients, investors,
+                                                                    suppliers, employees and other stakeholders.
+Business Unit Responsibilities
+                                                                    As a financial institution, Citi’s ability to adapt to the
+Citi’s Corporate Sustainability team is responsible
+                                                                    changing environment — with respect to the climate, our
+for managing Citi’s overarching Sustainable Progress
+                                                                    company’s business and the context in which we operate
+Strategy in partnership with business units across the
+                                                                    — is one of our greatest strengths. Citi has historically
+bank. Our ESRM team manages our ESRM Policy, which
+                                                                    focused our resources on assessing potential risks and
+governs our review and approval of client transactions
+                                                                    opportunities related to many different aspects of our
+in environmentally and/or socially sensitive sectors, and
+                                                                    business in the short- and medium-term, including climate-
+guides client engagement on environmental and social
+                                                                    related risks and opportunities. Citi’s definition for the
+risks and mitigation measures. Our Corporate Realty
+                                                                    short- and medium-term is consistent with the accepted
+Services group also has a specialized sustainability team
+                                                                    definition of credit horizons for term lending, which ranges
+that manages our environmental footprint and green
+                                                                    from 1 to 5 years. Citi does consider longer time horizons
+building goals, and our Enterprise Supply Chain team
+                                                                    as well, sometimes up to 100 years, which is very different
+oversees supply chain sustainability. These specialized
+                                                                    than the time horizon for Citi’s loans, when assessing
+teams sit within their respective business units, ensuring
+                                                                    climate change impacts and potential future risks. Even
+ownership of sustainability goals throughout the company.
+                                                                    though these longer time horizon analyses may not
+Citi’s banking and financing teams also work with clients to
+                                                                    have immediate impacts on decision making, they could
+address climate change issues and to facilitate contributions
+                                                                    influence long term strategic planning. For a more complete
+to our $100 Billion Environmental Finance Goal.
+                                                                    discussion of these aspects and others of Citi’s current
+                                                                    sustainability activities, including those to address climate
+Strategy                                                            change, refer to Citi’s latest Global Citizenship Report.
+
+Regarding climate-related strategy, the TCFD recommends             Citi will continue to contribute to the conversation on
+that companies disclose the results of scenario analysis and        climate disclosures. We will both improve our internal
+
+
+
+
+                                                             FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­ | 25
+expertise in this area and engage with climate modelers          business continuity teams help us monitor, prepare for and
+and other experts to help them adapt their work for use in       respond to a range of issues, including extreme weather
+financial decision-making. One of the greatest challenges        events that have the potential to disrupt our operations.
+that Citi faced in conducting the scenario analysis for this     Citi operates in nearly 100 countries and we know that our
+report was the interplay between climate models and Citi’s       facilities may be exposed to a wide range of physical climate
+internal risk management processes, tools and models. Citi       risks that vary based on the location of each facility. We
+learned that climate scenarios need to be better adapted         have invested in climate adaptation solutions in a number
+to financial analysis by considering potential climate-          of critical facilities in order to increase resiliency. Our crisis
+related implications on shorter timeframes.                      management team has action plans to address immediate
+                                                                 risks and support our employees and customers before,
+Management of Climate Risks                                      during and after adverse events. Our business continuity
+                                                                 team also has plans in place to help Citi resume business
+and Opportunities                                                operations as quickly as possible in the aftermath of an
+                                                                 extreme climate event.
+The TCFD recommendations on climate risk and
+opportunity management focus on the processes
+companies have in place to address climate-related risks         Metrics and Targets
+and opportunities.
+                                                                 The TCFD recommends that companies disclose various
+Citi manages climate-related risks and opportunities             aspects of their methodologies for computing and tracking
+through our $100 Billion Environmental Finance Goal and          goals related to climate risks and opportunities. For well
+the implementation of our ESRM Policy, which integrates          over a decade, Citi has been compiling and disclosing
+climate risk assessment into project-related financings and      climate-related metrics and targets. Citi plans to continue
+includes sector-specific policies for coal mining, forestry,     to refine our processes for identifying relevant climate
+oil & gas and palm oil. In addition, the climate risk analyses   metrics and targets and sharing them with others.
+that Citi conducts, including climate scenario analysis,
+                                                                 Citi sets targets and uses metrics to help us monitor and
+provide Citi with a better understanding of how to engage
+                                                                 manage our climate change strategy. Through our $100
+with clients in various sectors on climate-related transition
+                                                                 Billion Environmental Finance Goal, we have committed
+and physical risks and opportunities. We are actively
+                                                                 to working with our clients to finance climate change and
+pursuing business opportunities in partnership with our
+                                                                 environmental solutions. In addition, we have set ambitious
+clients, who are developing solutions to address issues
+                                                                 climate-related goals to minimize the impacts of our own
+such as climate change, and investing in infrastructure
+                                                                 operations. We publicly report on our progress toward
+and new technologies for climate resilience, adaptation
+                                                                 these goals through a variety of metrics and targets
+and mitigation. Our $100 Billion Environmental Finance
+                                                                 annually in our Global Citizenship Report.
+Goal is one example of how we support investments in
+renewable energy, energy efficiency, green infrastructure        Operations
+and other related activities. We work with clients to assess
+their vulnerability to climate change, reduce their carbon       Citi reports our Scope 1, Scope 2 and a portion of Scope 3
+footprint, implement adaptation measures and finance             greenhouse gas emissions in our annual Global Citizenship
+low-carbon initiatives in the energy and other sectors. More     Report. We began reporting on the direct environmental
+information is available in the ESRM and Environmental           impacts (Scope 1 and Scope 2) of our operations in 2002.
+Finance sections of our annual Global Citizenship Report.        We follow the GHG Protocol Corporate Standard and Scope
+                                                                 2 Guidance for measuring and reporting both market-
+Citi has strategies and plans in place to address the            based and location-based Scope 1 and Scope 2 greenhouse
+risks that climate poses to our operations. In addition to       gas emissions. We also report Scope 3 CO2 emissions from
+mitigating our transition risks through the use of renewable     employee air and train travel and project financed thermal
+energy and improved energy efficiency throughout our             power plants in our Global Citizenship Report.
+global operations, our operations, crisis management and
+
+
+
+26 | ­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­
+Environmental Impact Report
+PROGRESS AGAINST 2020 GOALS*
+
+
+
+
+  100%                       30%              30%                   33%                       60%                 10%
+           use of              reduction        reduction               of global                diversion      of water used
+       renewable               in energy          in water            real estate            rate of waste       coming from
+       energy for           consumption      consumption                portfolio                to landfill        reclaimed
+         facilities        (compared with    (compared with                LEED-             (compared with        or recycled
+                            2005 baseline)    2005 baseline)            certified             2005 baseline)           sources
+         globally
+
+
+
+      PROGRESS                PROGRESS         PROGRESS              PROGRESS                  PROGRESS           PROGRESS
+
+      18.3%                 29.9%            29.0%                  21.8%                      61.8%               5.8%
+*As of year-end 2017.
+
+
+
+
+ Energy                                        2017               CO2e Emissions                                    2017
+ SCOPE 1 - ENERGY CONSUMED                                        SCOPE 1 & 2 - EMISSIONS
+ Natural Gas (GWh)                                      64        Direct CO2e (GHG Scope 1) (mt)                        21,097
+ Fuel Oil (GWh)                                         29        Indirect CO2e (GHG Scope 2) (mt)                     700,252
+ Total Energy Consumed                                  93        Total CO2e (mt)                                     721,349
+
+
+ SCOPE 2 - ENERGY PURCHASED                                       RECs or Other Energy Attribute Certificates
+                                                                                                                       102,067
+                                                                  Purchased (mt)
+ Electricity (GWh)                                    1,426
+                                                                  Net CO2e (mt)                                       619,282
+ District Heating (Steam & Chilled Water)
+                                                        55
+ (GWh)
+ Total Energy Purchased                               1,481       SCOPE 3 - EMISSIONS
+                                                                  Business Travel
+ TOTAL ENERGY                                         1,574       Business Air Travel (mt)                               151,112
+                                                                  Business Train Travel (mt)                               209
+                                                                  Thermal Power
+For the latest reporting and more details on our
+                                                                  30-Year Plant Life (mmt)                                  18.1
+environmental performance for operations, see our annual
+                                                                  60-Year Plant Life (mmt)                                 36.2
+Global Citizenship Report.
+
+
+
+                                                          FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­ | 27
+Environmental Finance                                             report, Sustainable Growth at Citi, to provide a more
+                                                                  detailed look into the financial accounting methodology,
+Citi first established an environmental financing target          environmental criteria, and impact measurement framework
+in 2007, with a goal to direct $50 billion to activities that     of the $100 Billion Environmental Finance Goal.
+mitigate climate change. After achieving that goal early
+in 2013, we announced a new $100 Billion Environmental            Citi is on track to meet our climate-related targets. We will
+Finance Goal in 2015 to finance and facilitate environmental      continue to set new goals and report new metrics as the
+solutions to reduce climate change impacts and benefit            need and opportunity arises to help us manage our climate
+society. We report annually on our progress towards our           change risks, opportunities and responsibilities. We will also
+goal and the environmental and social impacts associated          continue to evaluate how we can create new and better
+with our environmental financing activities in our Global         metrics and targets to review and report on our climate-
+Citizenship Report. In 2017, we released a supplemental           related strategy as it evolves.
+
+
+
+
+$100 Billion Environmental Finance Goal
+WE PROVIDED $57 BILLION IN ENVIRONMENTAL                                           OUR FINANCING RESULTED IN
+FINANCING BETWEEN 2014-2017:                                                       MEASURABLE IMPACTS:
+
+
+
+                Renewable Energy                           $36.3B
+
+                Water Quality & Conservation                $6.3B
+                                                                                            4.5 mt CO2e
+                                                                                          GHG emissions avoided
+                Sustainable Transportation                  $5.1B
+
+                Green Building                              $2.0B
+
+                Energy Efficiency                           $0.8B                            2,329 MW
+                                                                                          New renewable energy
+                                                                                             capacity added
+                Clean Technology                            $0.3B
+
+
+For the latest reporting and more details on our progress towards our $100 Billion Environmental Finance Goal, see our annual
+Global Citizenship Report.
+
+
+
+
+28 | ­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­
+SECTION 4:
+
+Looking Forward
+
+Our experience with the UNEP FI pilot gave us important
+insights that will help to inform our strategy going forward
+into 2019 and beyond. Citi acknowledges the risks
+highlighted by the IPCC’s recent Special Report, Global
+Warming of 1.5°C, and recognizes the urgent need to keep
+warming below 2°C with a goal to limiting it to 1.5°C.
+Given this imperative, Citi understands that even though                  second-order impacts, such as impacts on critical
+our pilot scenario analysis exercise did not indicate that                infrastructure or the supply chain, not just direct
+climate change will pose material financial risks to our                  impacts. This is hard to measure and estimate at this
+business in 2030 and 2040, this was not an exhaustive                     time and will require additional data.
+or conclusive analysis. Regardless, we must take action
+today to do our part to avoid the worst potential impacts             It will take time and collaboration with stakeholders for us
+of climate change. To enable this transition, we must work            to find solutions to these challenges, but we are committed
+closely with our clients in climate-exposed sectors to                to building upon the pilot project and further implementing
+help them transition and become more resilient through                the TCFD recommendations. Some potential next steps we
+enhanced climate adaptation and mitigation measures.                  are exploring include:
+
+This pilot analysis highlighted several difficult challenges          •   Conducting climate scenario analysis on other sectors
+associated with conducting climate scenario analysis and                  and/or geographies
+understanding climate-related risks that we will need                 •   Exploring and potentially testing other methodologies,
+to address:                                                               models, tools and scenarios that have been developed
+                                                                          by third parties
+•   Long-term climate projections tend to be inaccurate.
+    This is made even more challenging by the fact that               •   Continuing to collaborate with UNEP FI and the pilot
+    climate risks and impacts are expected to accelerate                  group to refine the transition risk and physical risk
+    and get worse over time. Non-linearity is hard to                     methodologies that we have developed
+    capture and forecast with the currently-available tools           •   Engaging with clients and other stakeholders to
+    for climate risk assessment.                                          further our collective understanding of climate risks
+•   There are significant data gaps, including data on                    and opportunities, particularly in the supply chain
+    the linkage between climate risk and credit quality               •   Engaging with clients to support investments in
+    and asset-level data on asset utilization and climate                 climate change solutions for climate adaptation and/
+    mitigation factors at a facility.                                     or mitigation
+•   Climate impacts can be very local and affect different            •   Working with stakeholders to improve data availability
+    geographies and sectors differently. This will require                and fill data gaps
+    more granular data at the local and asset level.
+                                                                      •   Working with climate modelers to adapt climate
+•   Climate-related losses may be due to indirect,                        scenarios for financial analysis
+
+
+
+
+                                                               FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­ | 29
+•   Assessing if and how internal processes may need
+    to be modified to further integrate climate risks and
+    opportunities                                                    FOR YOUR REFERENCE
+•   Working with internal quantitative analysis and
+                                                                     Citi has published the following materials
+    modeling teams to develop a plan for internal
+                                                                     relevant to our sustainability initiatives, which
+    integration of climate risks and opportunities into
+                                                                     serve as additional background on our climate-
+    existing models and tools
+                                                                     related activities.
+•   Engaging with investors to understand areas for
+    improved disclosures                                             Annual Global Citizenship Report: Corporate
+                                                                     citizenship activities and performance for the
+•   Engaging with Board committees and senior
+                                                                     calendar year.
+    management on climate-related risks and
+    opportunities                                                    Environmental and Social Policy Framework:
+                                                                     Describes Citi’s key environmental and social
+Citi is also considering how our internal risk management
+                                                                     policies, programs and initiatives globally and
+processes can account for climate model outputs. Among
+                                                                     guides our daily business decisions.
+the options Citi is considering is how to adapt existing
+tools and models that predict loss likelihood and loss               Sustainable Growth at Citi: Progress and impacts
+severity so that those tools and models can be utilized to           of Citi’s $100 Billion Environmental Finance Goal.
+understand the impacts of climate risk factors in addition
+to macroeconomic factors. Another option that could be               Five-Year Sustainable Progress Strategy:
+viable is to model the linkages between climate risk factors         Business drivers for sustainability in priority
+and company fundamentals. For this type of borrower-                 thematic areas of Climate Change, Sustainable
+level assessment to become a reality, the companies in               Cities, and People and Communities.
+our lending portfolios will need to continue to adopt the
+recommendations of the TCFD and disclose more climate-               ESRM Policy: Illustrative summary of steps taken
+related information.                                                 in a typical Citi project-related finance transaction.
+
+                                                                     NGPAC Charter: Charter of the NGPAC, a board
+We will continue evaluating approaches to understanding
+                                                                     committee which oversees our global citizenship
+climate risks and opportunities and ways to enhance our
+                                                                     and sustainability activities and performance.
+climate-related disclosures. We plan to engage investors,
+key stakeholders and internal experts within Citi to                 Form 10-K Annual Report: Annual report
+determine the best approach for Citi going forward.                  required by the U.S. Securities and Exchange
+                                                                     Commission, which gives a comprehensive
+                                                                     summary of our financial performance and risks
+                                                                     related to our business.
+
+
+
+
+30 | ­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­
+Forward-Looking Statements
+Certain statements in this report may be “forward-looking statements.” These statements are based on management’s
+current expectations and are subject to uncertainty and changes in circumstances. These statements are not guarantees
+of future results or occurrences. Actual results and financial condition may differ materially from those included in these
+statements due to a variety of factors, including, among others, global socio-demographic and economic trends, energy
+prices, technological innovations, climate-related conditions and weather events, legislative and regulatory changes and
+other unforeseen events or conditions, and the precautionary statements included in this report and those contained in Citi’s
+filings with the Securities and Exchange Commission (SEC). Any forward-looking statements made by or on behalf of Citi
+speak only as to the date they are made, and Citi does not undertake to update forward-looking statements to reflect the
+impact of circumstances or events that arise after the date the forward-looking statements were made. In addition, while this
+report describes potential future events that may be significant, the significance of those potential events should not be read
+as equating to materiality as the concept is used in Citi’s filings with the SEC.
+
+
+
+
+                                                           ­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­ ­­ | 31
+32 | ­FINANCE FOR A CLIMATE-RESILIENT FUTURE: CITI’S TCFD REPORT­­
+
